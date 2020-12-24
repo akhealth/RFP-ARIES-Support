@@ -2,9 +2,9 @@
 
 ## Instructions
 
-The documents in this repository will be posted in Alaska's [Vendor Self Service (VSS) portal](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService) under RFP # TBD. The documents in VSS should always be considered the documents of record. After an initial comment and suggestion period we will plan to release this RFP officially. 
+This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this repository. 
 
-Offers are due by xxxxxxxx, at 4:00 pm Alaska prevailing time.
+When we are ready to release the official RFP it will be posted here in this repository and will also be listed in the official State of Alaska Vendor Self Service Portal https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService
 
 ## Important note about referenced documentation
 
