@@ -2,13 +2,13 @@
 
 ## Instructions
 
-This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this repository. 
+This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this repository (https://github.com/AlaskaDHSS/RFP-ARIES-Support/issues) 
 
 When we are ready to release the official RFP it will be posted here in this repository and will also be listed in the official State of Alaska Vendor Self Service Portal https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService
 
 ## Important note about referenced documentation
 
-You'll notice that we link to a number of working documents in our RFP and related materials.  Interested vendors should be aware that all of these documents are subject to change because Alaska is continuing to learn more as we continue prototyping and working with various elements of the existing system to build out our DevSecOps capabilities.  We encourage interested vendors to "Watch" what's going on in [the main DHSS Modernization repo](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization) and in [the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp) to be aware of what we're learning.  However, we don't anticipate anything that we learn or change in this environment to alter how an interested vendor would staff up their proposed teams.  As discussed throughout the RFP, we are interested in vendors that are open to such changes without requiring a static set of requirements at the time of the RFP.
+You'll notice that we link to a number of working documents in our RFP and related materials.  Interested vendors should be aware that all of these documents are subject to change because Alaska is continuing to learn more as we continue prototyping and working with various elements of the existing system to build out our DevSecOps capabilities.  We encourage interested vendors to "Watch" what's going on in [the main DHSS Modernization repo](https://github.com/AlaskaDHSS/EIS-Modernization).  However, we don't anticipate anything that we learn or change in this environment to alter how an interested vendor would staff up their proposed teams.  As discussed throughout the RFP, we are interested in vendors that are open to such changes without requiring a static set of requirements at the time of the RFP.
 
 ## Background
 
@@ -32,7 +32,7 @@ staff to ensure the eligibility system is:
 
 * Appropriately documented
  
-_Important note - Questions about this RFP should be [posted here](../../issues) - and not to the main DHSS project repo._
+_Important note - Questions about this RFP should be [posted here](https://github.com/AlaskaDHSS/RFP-ARIES-Support/issues) - and not to the main DHSS project repo._
 
 ### What we're hoping to achieve as a result of this acquistion
 
