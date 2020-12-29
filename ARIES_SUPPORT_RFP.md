@@ -3,22 +3,13 @@
 
 # State of Alaska Request for Proposals 
 
-**Alaska Asset Verification System (AVS)/Enhanced Verification System
-(EVS)**
+**Alaska Resources for Integrated Eligibility Services (ARIES) System Support**
 
-RFP 2000000034
+RFP TBD
 
-Issued 1/23/2020
+Issued TBD
 
-The Alaska Department of Health and Social Services, Division of Public
-Assistance is soliciting proposals from qualified offeror's for a web
-hosted subscription service to meet the requirements of Supplemental
-Appropriations Act, 2008, Pub. L. No. 110-252; Section 1940 of the
-Social Security Act, Alaska Statutes (AS) 47.05.105 and 7 CFR 272.16 for
-asset, income, identity and new hire matches. The goals of this project
-are to procure a subscription service, supplemented with regularly
-scheduled bulk data matches, to verify applicants meet the eligibility
-criteria for Public Assistance programs quickly and accurately.
+The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to support the ongoing maintenance of the public assistance eligibility system. This system currently processes eligibility for MAGI Medicaid but is growing to support all existing public assistance programs.
 
 ------------------------------------------------------------------
 
@@ -29,9 +20,9 @@ Division of Public Assistance
 
 ## PRIMARY CONTACT: 
 <br>
-Susan Jabal<br>
+Kellie Julian<br>
 Procurement Officer<br>
-Susan.Jabal@alaska.gov<br>
+Kellie.Julian@alaska.gov<br>
 THIS IS A DRAFT
 
 **TABLE OF CONTENTS**
