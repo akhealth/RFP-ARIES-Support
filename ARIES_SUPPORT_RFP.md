@@ -318,20 +318,19 @@ end dates (month and year) are indicated, and that experience is
 detailed sufficiently to ensure verification of all aspects of the
 minimums below.
 
-+----------------------------------------------------------------------+
-| -   Contractor must have a minimum of three (3) years' experience in |
-|     the last five (5) years, conducting Health and Human Services    |
-|     system support operations services. This experience must include |
-|     maintenance and updates of an enterprise technology system       |
-|                                                                      |
-| -   These updates must include configuration updates and software    |
-|     development updates                                              |
-|                                                                      |
-| -   Demonstrated experience with similar technologies at an          |
-|     enterprise scale                                                 |
-+----------------------------------------------------------------------+
 
-An offeror\'s failure to meet these minimum prior experience
+- Contractor must have a minimum of three (3) years' experience in 
+the last five (5) years, conducting Health and Human Services    
+system support operations services. This experience must include 
+maintenance and updates of an enterprise technology system       
+
+- These updates must include configuration updates and software    
+development updates                                              
+
+- Demonstrated experience with similar technologies at an          
+enterprise scale                                                 
+
+An offeror's failure to meet these minimum prior experience
 requirements will cause their proposal to be considered non-responsive
 and rejected.
 
@@ -456,7 +455,7 @@ The following information must be included in all proposals:
 > valid for at least 90-days from the date set as the deadline for
 > receipt of proposals.
 
-### Offeror\'s Certification
+### Offeror's Certification
 
 > By signature on the proposal, offerors certify that they comply with
 > the following:
@@ -542,16 +541,10 @@ times are Alaska Standard Time (AKST).
 
 -   Issue RFP on TBD
 
-```{=html}
-<!-- -->
-```
 -   Deadline for receipt of questions on + 10 days
 
 -   Deadline for receipt of proposals on + 21 days
 
-```{=html}
-<!-- -->
-```
 -   Proposal Evaluation Committee complete evaluation by + 21 days
 
 -   State of Alaska issues Notice of Intent to Award a Contract by + 1
