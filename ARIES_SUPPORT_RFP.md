@@ -259,8 +259,6 @@ Moderate Control Set
 [Sec. 8.08 Attachment 8 -- Quality Assurance Plan
 72](#attachment-8-quality-assurance-plan)
 
-**\
-**
 
 # Introduction & Instructions
 
