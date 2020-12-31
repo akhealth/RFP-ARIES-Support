@@ -4,7 +4,7 @@ We're so glad you're thinking about contributing to this project! If you're unsu
 
 We want to ensure a welcoming environment for all of our projects. Our team members follow the [State of Alaska ethics guidelines](http://law.alaska.gov/doclibrary/ethics/EthicsInfo.html) and all contributors should do the same.
 
-We encourage you to read this project's [LICENSE](LICENSE.md), and its [README](README.md).
+We encourage you to read this project's [LICENSE](license.md), and its [README](readme.md).
 
 ## Public domain
 
