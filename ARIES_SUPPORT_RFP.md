@@ -27,237 +27,198 @@ THIS IS A DRAFT
 
 **TABLE OF CONTENTS**
 
-[Section 1. Introduction & Instructions 5](#introduction-instructions)
+[Section 1. Introduction & Instructions](#introduction-instructions)
 
-[Sec. 1.01 Purpose of the RFP 5](#purpose-of-the-rfp)
+[Sec. 1.01 Purpose of the RFP](#purpose-of-the-rfp)
 
-[Sec. 1.02 Budget 5](#budget)
+[Sec. 1.02 Budget](#budget)
 
-[Sec. 1.03 Deadline for Receipt of Proposals
-5](#deadline-for-receipt-of-proposals)
+[Sec. 1.03 Deadline for Receipt of Proposals](#deadline-for-receipt-of-proposals)
 
-[Sec. 1.04 Minimum Qualifications 5](#minimum-qualifications)
+[Sec. 1.04 Minimum Qualifications](#minimum-qualifications)
 
-[Sec. 1.05 Required Review 6](#required-review)
+[Sec. 1.05 Required Review](#required-review)
 
-[Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
-6](#questions-prior-to-deadline-for-receipt-of-proposals)
+[Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals](#questions-prior-to-deadline-for-receipt-of-proposals)
 
-[Sec. 1.07 Return Instructions 6](#return-instructions)
+[Sec. 1.07 Return Instructions](#return-instructions)
 
-[Sec. 1.08 Proposal Contents 7](#proposal-contents)
+[Sec. 1.08 Proposal Contents](#proposal-contents)
 
-[Sec. 1.09 Assistance to Offerors With a Disability
-8](#assistance-to-offerors-with-a-disability)
+[Sec. 1.09 Assistance to Offerors With a Disability](#assistance-to-offerors-with-a-disability)
 
-[Sec. 1.10 Amendments to Proposals 9](#amendments-to-proposals)
+[Sec. 1.10 Amendments to Proposals](#amendments-to-proposals)
 
-[Sec. 1.11 Amendments to the RFP 9](#amendments-to-the-rfp)
+[Sec. 1.11 Amendments to the RFP](#amendments-to-the-rfp)
 
-[Sec. 1.12 RFP Schedule 9](#rfp-schedule)
+[Sec. 1.12 RFP Schedule](#rfp-schedule)
 
-[Sec. 1.13 Pre-Proposal Conference 9](#pre-proposal-conference)
+[Sec. 1.13 Pre-Proposal Conference](#pre-proposal-conference)
 
-[Sec. 1.14 Alternate Proposals 9](#alternate-proposals)
+[Sec. 1.14 Alternate Proposals](#alternate-proposals)
 
-[Sec. 1.15 News Releases 10](#news-releases)
+[Sec. 1.15 News Releases](#news-releases)
 
-[Section 2. Background Information 11](#background-information)
+[Section 2. Background Information](#background-information)
 
-[Sec. 2.01 Background Information 11](#background-information-1)
+[Sec. 2.01 Background Information](#background-information-1)
 
-[Section 3. Scope of Work & Deliverables
-12](#scope-of-work-deliverables)
+[Section 3. Scope of Work & Deliverables](#scope-of-work-deliverables)
 
-[Sec. 3.01 Scope of Work 12](#scope-of-work)
+[Sec. 3.01 Scope of Work](#scope-of-work)
 
-[Sec. 3.02 Project Management Requirements
-13](#project-management-requirements)
+[Sec. 3.02 Project Management Requirements](#project-management-requirements)
 
-[Sec. 3.03 transition requirements 14](#transition-requirements)
+[Sec. 3.03 transition requirements](#transition-requirements)
 
-[Sec. 3.04 personnel 14](#personnel)
+[Sec. 3.04 personnel](#personnel)
 
-[Sec. 3.05 Contract Term and Work Schedule
-16](#contract-term-and-work-schedule)
+[Sec. 3.05 Contract Term and Work Schedule](#contract-term-and-work-schedule)
 
-[Sec. 3.06 Deliverables 16](#deliverables)
+[Sec. 3.06 Deliverables](#deliverables)
 
-[Sec. 3.07 Contract Type 19](#contract-type)
+[Sec. 3.07 Contract Type](#contract-type)
 
-[Sec. 3.08 Proposed Payment Procedures 19](#proposed-payment-procedures)
+[Sec. 3.08 Proposed Payment Procedures](#proposed-payment-procedures)
 
-[Sec. 3.09 Prompt Payment For State Purchases
-20](#prompt-payment-for-state-purchases)
+[Sec. 3.09 Prompt Payment For State Purchases](#prompt-payment-for-state-purchases)
 
-[Sec. 3.10 Contract Payment 20](#contract-payment)
+[Sec. 3.10 Contract Payment](#contract-payment)
 
-[Sec. 3.11 Location of Work 20](#location-of-work)
+[Sec. 3.11 Location of Work](#location-of-work)
 
-[Sec. 3.12 Subcontractors 21](#subcontractors)
+[Sec. 3.12 Subcontractors](#subcontractors)
 
-[Sec. 3.13 Joint Ventures 22](#joint-ventures)
+[Sec. 3.13 Joint Ventures](#joint-ventures)
 
-[Sec. 3.14 Right to Inspect Place of Business
-22](#right-to-inspect-place-of-business)
+[Sec. 3.14 Right to Inspect Place of Business](#right-to-inspect-place-of-business)
 
-[Sec. 3.15 Contract Personnel 22](#contract-personnel)
+[Sec. 3.15 Contract Personnel](#contract-personnel)
 
 [Sec. 3.16 Inspection & Modification - Reimbursement For Unacceptable
-Deliverables
-22](#inspection-modification---reimbursement-for-unacceptable-deliverables)
+Deliverables](#inspection-modification---reimbursement-for-unacceptable-deliverables)
 
-[Sec. 3.17 Contract Changes - Unanticipated Amendments
-22](#contract-changes---unanticipated-amendments)
+[Sec. 3.17 Contract Changes - Unanticipated Amendments](#contract-changes---unanticipated-amendments)
 
-[Sec. 3.18 Nondisclosure and Confidentiality
-22](#nondisclosure-and-confidentiality)
+[Sec. 3.18 Nondisclosure and Confidentiality](#nondisclosure-and-confidentiality)
 
-[Sec. 3.19 Indemnification 23](#indemnification)
+[Sec. 3.19 Indemnification](#indemnification)
 
-[Sec. 3.20 Insurance Requirements 24](#insurance-requirements)
+[Sec. 3.20 Insurance Requirements](#insurance-requirements)
 
-[Sec. 3.21 Termination For Default 24](#termination-for-default)
+[Sec. 3.21 Termination For Default](#termination-for-default)
 
-[Section 4. Proposal Format and Content
-25](#proposal-format-and-content)
+[Section 4. Proposal Format and Content](#proposal-format-and-content)
 
-[Sec. 4.01 Proposal Format and Content
-25](#proposal-format-and-content-1)
+[Sec. 4.01 Proposal Format and Content](#proposal-format-and-content-1)
 
-[Sec. 4.02 Introduction 25](#introduction)
+[Sec. 4.02 Introduction](#introduction)
 
-[Sec. 4.03 technical UNDERSTANDING and approach
-25](#technical-understanding-and-approach)
+[Sec. 4.03 technical UNDERSTANDING and approach](#technical-understanding-and-approach)
 
-[Sec. 4.04 project management approach 25](#project-management-approach)
+[Sec. 4.04 project management approach](#project-management-approach)
 
-[Sec. 4.05 Approach to user INTERFACE and user experience design
-26](#approach-to-user-interface-and-user-experience-design)
+[Sec. 4.05 Approach to user INTERFACE and user experience design](#approach-to-user-interface-and-user-experience-design)
 
-[Sec. 4.06 staffing Approach 26](#staffing-approach)
+[Sec. 4.06 staffing Approach](#staffing-approach)
 
-[Sec. 4.07 Similar Experience and Qualifications
-26](#similar-experience-and-qualifications)
+[Sec. 4.07 Similar Experience and Qualifications](#similar-experience-and-qualifications)
 
-[Sec. 4.08 Verbal Presentation 27](#verbal-presentation)
+[Sec. 4.08 Verbal Presentation](#verbal-presentation)
 
-[Sec. 4.09 Cost Proposal 28](#cost-proposal)
+[Sec. 4.09 Cost Proposal](#cost-proposal)
 
-[Sec. 4.10 Evaluation Criteria 28](#evaluation-criteria)
+[Sec. 4.10 Evaluation Criteria](#evaluation-criteria)
 
-[Section 5. Evaluation Criteria and Contractor Selection
-29](#evaluation-criteria-and-contractor-selection)
+[Section 5. Evaluation Criteria and Contractor Selection](#evaluation-criteria-and-contractor-selection)
 
-[Sec. 5.01 technical understanding and approach (10%)
-29](#technical-understanding-and-approach-10)
+[Sec. 5.01 technical understanding and approach (10%)](#technical-understanding-and-approach-10)
 
-[Sec. 5.02 project management approach (5%)
-29](#project-management-approach-5)
+[Sec. 5.02 project management approach (5%)](#project-management-approach-5)
 
-[Sec. 5.03 approach to user Interface and user experience design (5%)
-29](#approach-to-user-interface-and-user-experience-design-5)
+[Sec. 5.03 approach to user Interface and user experience design (5%)](#approach-to-user-interface-and-user-experience-design-5)
 
-[Sec. 5.04 staffing Approach (10%) 29](#staffing-approach-10)
+[Sec. 5.04 staffing Approach (10%)](#staffing-approach-10)
 
-[Sec. 5.05 similar Experience and Qualifications (10%)
-29](#similar-experience-and-qualifications-10)
+[Sec. 5.05 similar Experience and Qualifications (10%)](#similar-experience-and-qualifications-10)
 
-[Sec. 5.06 verbal presentation (20%) 29](#verbal-presentation-20)
+[Sec. 5.06 verbal presentation (20%)](#verbal-presentation-20)
 
-[Sec. 5.07 Contract Cost (40%) 29](#contract-cost-40)
+[Sec. 5.07 Contract Cost (40%)](#contract-cost-40)
 
-[Section 6. General Process Information
-30](#general-process-information)
+[Section 6. General Process Information](#general-process-information)
 
-[Sec. 6.01 Informal DeBriefing 30](#informal-debriefing)
+[Sec. 6.01 Informal DeBriefing](#informal-debriefing)
 
-[Sec. 6.02 Alaska Business License and Other Required Licenses
-30](#alaska-business-license-and-other-required-licenses)
+[Sec. 6.02 Alaska Business License and Other Required Licenses](#alaska-business-license-and-other-required-licenses)
 
-[Sec. 6.03 Clarification of Offers 30](#clarification-of-offers)
+[Sec. 6.03 Clarification of Offers](#clarification-of-offers)
 
-[Sec. 6.04 Discussions with Offerors 31](#discussions-with-offerors)
+[Sec. 6.04 Discussions with Offerors](#discussions-with-offerors)
 
-[Sec. 6.05 Evaluation of Proposals 31](#evaluation-of-proposals)
+[Sec. 6.05 Evaluation of Proposals](#evaluation-of-proposals)
 
-[Sec. 6.06 Contract Negotiation 31](#contract-negotiation)
+[Sec. 6.06 Contract Negotiation](#contract-negotiation)
 
-[Sec. 6.07 Failure to Negotiate 31](#failure-to-negotiate)
+[Sec. 6.07 Failure to Negotiate](#failure-to-negotiate)
 
-[Sec. 6.08 Offeror Notification of Selection
-32](#offeror-notification-of-selection)
+[Sec. 6.08 Offeror Notification of Selection](#offeror-notification-of-selection)
 
-[Sec. 6.09 Protest 32](#protest)
+[Sec. 6.09 Protest](#protest)
 
-[Sec. 6.10 Formula Used to Convert Cost to Points
-33](#formula-used-to-convert-cost-to-points)
+[Sec. 6.10 Formula Used to Convert Cost to Points](#formula-used-to-convert-cost-to-points)
 
-[Sec. 6.11 Examples: Converting Cost to Points
-33](#examples-converting-cost-to-points)
+[Sec. 6.11 Examples: Converting Cost to Points](#examples-converting-cost-to-points)
 
-[Section 7. General Legal Information 34](#general-legal-information)
+[Section 7. General Legal Information](#general-legal-information)
 
-[Sec. 7.01 Standard Contract Provisions
-34](#standard-contract-provisions)
+[Sec. 7.01 Standard Contract Provisions](#standard-contract-provisions)
 
-[Sec. 7.02 Qualified Offerors 34](#qualified-offerors)
+[Sec. 7.02 Qualified Offerors](#qualified-offerors)
 
-[Sec. 7.03 Proposal as a Part of the Contract
-34](#proposal-as-a-part-of-the-contract)
+[Sec. 7.03 Proposal as a Part of the Contract](#proposal-as-a-part-of-the-contract)
 
-[Sec. 7.04 Additional Terms and Conditions
-34](#additional-terms-and-conditions)
+[Sec. 7.04 Additional Terms and Conditions](#additional-terms-and-conditions)
 
-[Sec. 7.05 Human Trafficking 34](#human-trafficking)
+[Sec. 7.05 Human Trafficking](#human-trafficking)
 
-[Sec. 7.06 Right of Rejection 35](#right-of-rejection)
+[Sec. 7.06 Right of Rejection](#right-of-rejection)
 
-[Sec. 7.07 State not Responsible for Preparation Costs
-35](#state-not-responsible-for-preparation-costs)
+[Sec. 7.07 State not Responsible for Preparation Costs](#state-not-responsible-for-preparation-costs)
 
-[Sec. 7.08 Disclosure of Proposal Contents
-35](#disclosure-of-proposal-contents)
+[Sec. 7.08 Disclosure of Proposal Contents](#disclosure-of-proposal-contents)
 
-[Sec. 7.09 Assignment 36](#assignment)
+[Sec. 7.09 Assignment](#assignment)
 
-[Sec. 7.10 Disputes 36](#disputes)
+[Sec. 7.10 Disputes](#disputes)
 
-[Sec. 7.11 Severability 36](#severability)
+[Sec. 7.11 Severability](#severability)
 
-[Sec. 7.12 Supplemental Terms and Conditions
-36](#supplemental-terms-and-conditions)
+[Sec. 7.12 Supplemental Terms and Conditions](#supplemental-terms-and-conditions)
 
-[Sec. 7.13 Solicitation Advertising 36](#solicitation-advertising)
+[Sec. 7.13 Solicitation Advertising](#solicitation-advertising)
 
-[Sec. 7.14 Federally Imposed TaRiffs 36](#federally-imposed-tariffs)
+[Sec. 7.14 Federally Imposed TaRiffs](#federally-imposed-tariffs)
 
-[Section 8. Attachments 38](#attachments)
+[Section 8. Attachments](#attachments)
 
-[Sec. 8.01 Attachment 1 -- Cost Proposal
-39](#attachment-1-cost-proposal)
+[Sec. 8.01 Attachment 1 -- Cost Proposal](#attachment-1-cost-proposal)
 
-[Sec. 8.02 Attachment 2 - RFP Checklist 41](#_Toc58228074)
+[Sec. 8.02 Attachment 2 - RFP Checklist](#_Toc58228074)
 
-[Sec. 8.03 Attachment 3 - Proposal Evaluation Form
-43](#attachment-3---proposal-evaluation-form)
+[Sec. 8.03 Attachment 3 - Proposal Evaluation Form](#attachment-3---proposal-evaluation-form)
 
-[Sec. 8.04 Attachment 4 - Certification Regarding Debarment
-47](#_Toc58228076)
+[Sec. 8.04 Attachment 4 - Certification Regarding Debarment](#_Toc58228076)
 
 [Sec. 8.05 Attachment 5 -- TEMPLATE Standard Agreement Form (with
-Appendices)
-49](#attachment-5-template-standard-agreement-form-with-appendices)
+Appendices)](#attachment-5-template-standard-agreement-form-with-appendices)
 
 [Sec. 8.06 Attachment 6 -- DHSS Sample Security Authorization Package --
-Moderate Control Set
-70](#attachment-6-dhss-sample-security-authorization-package-moderate-control-set)
+Moderate Control Set](#attachment-6-dhss-sample-security-authorization-package-moderate-control-set)
 
-[Sec. 8.07 Attachment 7 -- Technical Documentation Example
-71](#attachment-7-technical-documentation-example)
+[Sec. 8.07 Attachment 7 -- Technical Documentation Example](#attachment-7-technical-documentation-example)
 
-[Sec. 8.08 Attachment 8 -- Quality Assurance Plan
-72](#attachment-8-quality-assurance-plan)
+[Sec. 8.08 Attachment 8 -- Quality Assurance Plan](#attachment-8-quality-assurance-plan)
 
 
 # Introduction & Instructions
@@ -340,13 +301,13 @@ questionable or objectionable material should be made in writing and
 received by the procurement officer at least ten days before the
 deadline for receipt of proposals. This will allow time for the issuance
 of any necessary amendments. It will also help prevent the opening of a
-defective proposal and exposure of offeror\'s proposals upon which award
+defective proposal and exposure of offeror's proposals upon which award
 could not be made.
 
 ## Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this RFP\'s GitHub repository no later than 12 noon on TBD, to
+within this RFP's GitHub repository no later than 12 noon on TBD, to
 allow the State sufficient time to respond. All questions and comments
 will be publicly available. Please subscribe to the repository if your
 firm would like updates about changes and comments. Questions or
@@ -362,7 +323,7 @@ procurement officer will make that decision.
 
 Procurement Officer: Kellie Julian
 
-> kellie.julian\@alaska.gov
+> kellie.julian@alaska.gov
 
 ## Return Instructions
 
@@ -837,7 +798,7 @@ officer within two weeks of the procurement officer's request.
 ## personnel
 
 Alaska envisions the need for the following skillsets as part of the
-Contractors\' team\*:
+Contractors team*:
 
 -   Project manager
 
@@ -863,7 +824,7 @@ Contractors\' team\*:
 
 -   Systems administrator
 
-\* Note that one person could meet multiple of these skillset
+* Note that one person could meet multiple of these skillset
 suggestions. Alternatively, multiple people could be needed to support
 each of these listed skillsets.
 
@@ -877,7 +838,7 @@ Decision Manager, IBM Security Access Manager, Mule ESB, OpenText
 Exstream, Quartz Scheduler, MS SSRS
 
 Microsoft Technology: Azure cloud platform, ASP.NET web applications,
-.NET Core framework, C\#
+.NET Core framework, C#
 
 Language, SQL Server
 
