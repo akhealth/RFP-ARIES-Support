@@ -56,7 +56,19 @@ This initial contract will last two years from the date of award - approximately
 
 ## Contents
 
-1. [Request for Proposals](1-Request-for-Proposals.md)
+1. [Request for Proposals](ARIES_SUPPORT_RFP.md)
+2. [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.pdf)
+3. [Attachment 2 - RFP Checklist](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2002%20RFP%20Checklist.pdf)
+4. [Attachment 3 - Proposal Evaluation Form](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2003%20Proposal%20Evaluation%20Form.pdf)
+5. [Attachment 4 - Certification Regarding Debarment](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2004%20Certification%20Regarding%20Debarment.pdf)
+6. [Attachment 5 - TEMPLATE Standard Agreement Form (with Appendices)](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2005%20TEMPLATE%20Standard%20Agreement%20Form%20(with%20Appendices).pdf)
+7. [Attachment 6 - Federal Requirements](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2006%20Federal%20Requirements.pdf)
+8. [Attachment 7 - QAP](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md)
+9. [Attachment 8 - Technical Documentation Example](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2008-technical_documentation_example.PNG)
+10. [Attachment 9 -  IT REFERENCE A - DHSS IT REQUIREMENTS AGILE ACQUISITION](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20REFERENCE%20A%20-%20DHSS%20IT%20REQUIREMENTS%20AGILE%20ACQUISITION.pdf)
+11. [Attachment 10 - IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf)
+12. [Attachment 11 - IT Reference F - Data Destruction Information and References](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2011%20IT%20Reference%20F%20-%20Data%20Destruction%20Information%20and%20References.pdf)
+13. [Attachment 12 - IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2012%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set.pdf)
 
 
 ## Contributing
