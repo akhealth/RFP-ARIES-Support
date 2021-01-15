@@ -1206,8 +1206,7 @@ Only the Alaska technical support team has the authority to inspect,
 accept, or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
-laid out in the [quality assurance plan](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md) .
-package)
+laid out in the [quality assurance plan](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md).
 
 **SYSTEM DOCUMENTATION**
 
@@ -1228,7 +1227,7 @@ create and update documentation using these standards where appropriate.
 **QUALITY ASSURANCE**
 
 The contractor shall comply with the acceptable quality levels (AQL) as
-described in the attached quality assurance plan [QAP](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md) .
+described in the attached quality assurance plan [QAP](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md).
 
 ## Contract Type
 
@@ -1339,8 +1338,7 @@ proposal the names of the subcontractors and the portions of the work
 the subcontractors will perform.
 
 Subcontractor experience shall not be considered in determining whether
-the offeror meets the requirements set forth in Sec. 1.04: Minimum
-Qualifications**.**
+the offeror meets the requirements set forth in Sec. [1.04]((#minimum-qualifications))
 
 If a proposal with subcontractors is selected, the offeror must provide
 the following information concerning each prospective subcontractor
@@ -1380,14 +1378,14 @@ contractor\'s place of business that are related to the performance of a
 contract. If the state makes such an inspection, the contractor must
 provide reasonable assistance.
 
-## Contract Personnel {#contract-personnel .3.0}
+## Contract Personnel 
 
 Any change of the key personnel or subcontractors named in the proposal
 must be approved, in advance and in writing, by the project director.
 Personnel changes that are not approved by the state may be grounds for
 the state to terminate the contract.
 
-## Inspection & Modification - Reimbursement For Unacceptable Deliverables {#inspection-modification---reimbursement-for-unacceptable-deliverables .3.0}
+## Inspection & Modification - Reimbursement For Unacceptable Deliverables 
 
 The contractor is responsible for the completion of all work set out in
 the contract. All work is subject to inspection, evaluation, and
@@ -1403,7 +1401,7 @@ the state to terminate the contract. In this event, the state may
 require the contractor to reimburse monies paid (based on the identified
 portion of unacceptable work received) and may seek associated damages.
 
-## Contract Changes - Unanticipated Amendments {#contract-changes---unanticipated-amendments .3.0}
+## Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -1420,7 +1418,7 @@ amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health and Social Services or the
 Commissioner\'s designee.
 
-## Nondisclosure and Confidentiality {#nondisclosure-and-confidentiality .3.0}
+## Nondisclosure and Confidentiality 
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -1476,7 +1474,7 @@ which is disclosed by a party pursuant to subpoena or other legal
 process and which as a result becomes lawfully obtainable by the general
 public.
 
-## Indemnification {#indemnification .3.0}
+## Indemnification 
 
 The contractor shall indemnify, hold harmless, and defend the
 contracting agency from and against any claim of, or liability for
@@ -1494,7 +1492,7 @@ who are directly responsible, respectively, to each. The term
 agency's selection, administration, monitoring, or controlling of the
 contractor and in approving or accepting the contractor's work.
 
-## Insurance Requirements {#insurance-requirements .3.0}
+## Insurance Requirements 
 
 Without limiting contractor\'s indemnification, it is agreed that
 contractor shall purchase at its own expense and maintain in force at
@@ -1514,7 +1512,7 @@ grounds for termination of the contractor\'s services. All insurance
 policies shall comply with and be issued by insurers licensed to
 transact the business of insurance under AS 21.
 
-## Termination For Default {#termination-for-default .3.0}
+## Termination For Default 
 
 The Project Director, by written notice, may terminate this contract, in
 whole or in part, when it is in the best interest of the State. In the
@@ -1540,7 +1538,7 @@ For the state to evaluate proposals fairly and completely, offerors must
 follow the format set out in this RFP and provide all information
 requested.
 
-## Introduction {#introduction .6.0}
+## Introduction 
 
 Proposals must include the complete name and address of offeror's firm
 and the name, email address, and telephone number of the person the
@@ -1553,7 +1551,7 @@ proposals may cause the proposal to be determined to be non-responsive
 and the proposal may be rejected. Introduction is included in the page
 limit.
 
-## technical UNDERSTANDING and approach {#technical-understanding-and-approach .6.0}
+## technical UNDERSTANDING and approach 
 
 Succinctly describe level of knowledge, technical expertise and overall
 understanding of the responsibilities as set forth in Section 3: Scope
@@ -1562,7 +1560,7 @@ in the written proposal or during the verbal presentation, any technical
 risks or opportunities. Technical Understanding and Approach is included
 in the page limit.
 
-## project management approach {#project-management-approach .6.0}
+## project management approach 
 
 Offerors should plan to discuss, in their written proposal and/or during
 verbal presentations, the following areas of project management:
@@ -1588,7 +1586,7 @@ verbal presentations, the following areas of project management:
 
 Project Management Approach is included in the page limit.
 
-## Approach to user INTERFACE and user experience design {#approach-to-user-interface-and-user-experience-design .6.0}
+## Approach to user INTERFACE and user experience design 
 
 Proposals must contain information that describes how you will perform
 user experience and user interface design as a part of the overall user
@@ -1600,7 +1598,7 @@ changes, there will need to be some amount of user research and design.
 Approach to User Interface and User Experience Design is included in the
 page limit.
 
-## staffing Approach {#staffing-approach .6.0}
+## staffing Approach 
 
 Offerors should provide a staffing approach that describes your
 understanding of the responsibilities and details the number or
@@ -1630,7 +1628,7 @@ The staffing approach is included as part of your page limitation;
 however, resumes and letters of intent are not included in the page
 limitation.
 
-## Similar Experience and Qualifications {#similar-experience-and-qualifications .6.0}
+## Similar Experience and Qualifications 
 
 The offeror must describe how they fully meet the minimum qualifications
 and personnel criteria identified in Sections 1.04 and 3.04.
@@ -1645,7 +1643,7 @@ contract, please provide the following:
 
 -   Resume and specifically related work experience.
 
-## Verbal Presentation {#verbal-presentation .6.0}
+## Verbal Presentation 
 
 []{#_verbal_presentation .anchor}Responsive offerors will be invited to
 participate in a verbal presentation to be evaluated. The verbal
@@ -1726,7 +1724,7 @@ tasks.
 After the presentations, vendors must email the meeting organizers the
 names of everyone who attended.
 
-## Cost Proposal {#cost-proposal .6.0}
+## Cost Proposal 
 
 Offerors must complete the Cost Proposal template provided in Section 8:
 Attachments. Cost proposals must include an itemized list of all direct
@@ -1745,7 +1743,7 @@ if mailing proposal, or as a separate PDF if submitting via email.
 Failure to comply with this requirement may result in a proposal being
 rejected as non-responsive.
 
-## Evaluation Criteria {#evaluation-criteria .6.0}
+## Evaluation Criteria 
 
 All proposals will be reviewed to determine if they are responsive.
 Proposals determined to be responsive will be evaluated using the
@@ -1760,7 +1758,7 @@ parenthood, disability, or political affiliation of the offeror.
 
 **The total number of points used to score this proposal will be 1,000**
 
-## technical understanding and approach (10%)
+## Technical Understanding and Approach (10%)
 
 The State will evaluate the offeror's technical approach: level of
 knowledge, technical expertise, and overall understanding of the
@@ -1768,51 +1766,51 @@ requirements. The State will also evaluate the offeror's skills with
 similar technology software development and continuous deployment
 methods.
 
-## project management approach (5%) {#project-management-approach-5 .7.0}
+## Project Management Approach (5%) 
 
 The State will evaluate the offeror\'s approach to project coordination,
 risk management, issue management, user testing, and user research
 coordination.
 
-## approach to user Interface and user experience design (5%) {#approach-to-user-interface-and-user-experience-design-5 .7.0}
+## Approach to User Interface and User Experience Design (5%) 
 
 The State will evaluate the offeror\'s approach to user interface and
 user experience as they relate to the creation of user stories and
 delivery of working software.
 
-## staffing Approach (10%) {#staffing-approach-10 .7.0}
+## Staffing Approach (10%)
 
 The State will evaluate the offeror's proposed staffing methodology and
 skill levels/labor categories as well as the availability and relevant
 work experience demonstrated by Key Personnel.
 
-## similar Experience and Qualifications (10%) {#similar-experience-and-qualifications-10 .7.0}
+## Similar Experience and Qualifications (10%) 
 
 The State will evaluate the offeror's experience in performing work of
 similar scope and complexity. The State will also evaluate the offeror's
 experience with similar technology software development, human-centered
 design, and continuous deployment methods.
 
-## verbal presentation (20%) {#verbal-presentation-20 .7.0}
+## Verbal Presentation (20%) 
 
 The State will evaluate the offeror's response to questions regarding
 the technical aspects of the proposal as discussed during the verbal
 presentation. The State will also evaluate the offeror's technical
-demonstration as outlined in [Section 4.08](#_verbal_presentation).
+demonstration as outlined in [Section 4.08](#verbal-presentation).
 
-## Contract Cost (40%) {#contract-cost-40 .7.0}
+## Contract Cost (40%) 
 
 Overall, 40% of the total evaluation points will be assigned to cost.
 
 #  General Process Information
 
-## Informal DeBriefing {#informal-debriefing .2.02}
+## Informal Debriefing 
 
 When the contract is completed, an informal debriefing may be performed
 at the discretion of the project director. If performed, the scope of
 the debriefing will be limited to the work performed by the contractor.
 
-## Alaska Business License and Other Required Licenses {#alaska-business-license-and-other-required-licenses .2.02}
+## Alaska Business License and Other Required Licenses 
 
 Prior to the award of a contract, an offeror must hold a valid Alaska
 business license. Offerors should contact the Department of Commerce,
@@ -1857,7 +1855,7 @@ Prior to the deadline for receipt of proposals, all offerors must hold
 any other necessary applicable professional licenses required by Alaska
 Statute.
 
-## Clarification of Offers {#clarification-of-offers .2.02}
+## Clarification of Offers 
 
 In order to determine if a proposal is reasonably susceptible for award,
 communications by the procurement officer or the proposal evaluation
@@ -1906,7 +1904,7 @@ a new date and time established for new or amended proposals.
 Evaluations may be adjusted as a result of receiving new or amended
 proposals.
 
-## Contract Negotiation {#contract-negotiation .2.02}
+## Contract Negotiation
 
 After final evaluation, the procurement officer may negotiate with the
 offeror of the highest-ranked proposal. Negotiations, if held, shall be
@@ -1993,7 +1991,7 @@ decisions of the procurement officer, appeals, and hearings, will be
 conducted in accordance with the State Procurement Code (AS 36.30),
 Article 8 \"Legal and Contractual Remedies."
 
-## Formula Used to Convert Cost to Points {#formula-used-to-convert-cost-to-points .2.02}
+## Formula Used to Convert Cost to Points 
 
 The distribution of points based on cost will be determined as set out
 in 2 AAC 12.260(c). The lowest cost proposal will receive the maximum
@@ -2007,7 +2005,7 @@ of Each Higher Priced Proposal)\]*
 
 **Formula Used to Convert Cost to Points**
 
-**[[Step 1]{.ul}]{.smallcaps}**
+**Step 1
 
 List all proposal prices.
 
@@ -2015,7 +2013,7 @@ List all proposal prices.
 > Offeror \#2 \$42,750\
 > Offeror \#3 \$47,500
 
-**[[Step 2]{.ul}]{.smallcaps}**
+**Step 2
 
 In this example, the RFP allotted 40% of the available 100 points to
 cost. This means that the lowest cost will receive the maximum number of
@@ -2039,7 +2037,7 @@ points.
 
 #  General Legal Information
 
-## Standard Contract Provisions {#standard-contract-provisions .3.0}
+## Standard Contract Provisions
 
 The contractor will be required to sign and submit the State\'s Standard
 Agreement Form for Professional Services Contracts (including all
@@ -2057,7 +2055,7 @@ information with any change that you are proposing:
 
 3.  Identify exactly what suggested changes should be made.
 
-## Qualified Offerors {#qualified-offerors .3.0}
+## Qualified Offerors
 
 Per 2 AAC 12.875, unless provided for otherwise in the RFP, to qualify
 as an offeror for award of a contract issued under AS 36.30, the offeror
@@ -2074,12 +2072,12 @@ in providing the services or supplies in order to meet these
 requirements, the procurement officer may not accept the offeror as a
 qualified offeror under AS 36.30.
 
-## Proposal as a Part of the Contract {#proposal-as-a-part-of-the-contract .3.0}
+## Proposal as a Part of the Contract
 
 Part or all of this RFP and the successful proposal may be incorporated
 into the contract.
 
-## Additional Terms and Conditions {#additional-terms-and-conditions .3.0}
+## Additional Terms and Conditions
 
 The State reserves the right to add terms and conditions during contract
 negotiations. These terms and conditions will be within the scope of the
@@ -2186,7 +2184,7 @@ terms and provisions will not be affected; and, the rights and
 obligations of the parties will be construed and enforced as if the
 contract did not contain the particular provision held to be invalid.
 
-## Supplemental Terms and Conditions {#supplemental-terms-and-conditions .2.02}
+## Supplemental Terms and Conditions
 
 Proposals must comply with Section 7.06: Right of Rejection. However, if
 the state fails to identify or detect supplemental terms or conditions
@@ -2209,7 +2207,7 @@ After award of contract:
 
 Public notice has been provided in accordance with 2 AAC 12.220.
 
-## Federally Imposed TaRiffs
+## Federally Imposed Tariffs
 
 Changes in price (increase or decrease) resulting directly from a new or
 updated federal tariff, excise tax, or duty, imposed after contract
@@ -2256,7 +2254,7 @@ the United States via contract amendment.
 
 # Attachments
 
-**[Attachments Included within this document:]{.ul}**
+**Attachments Included within this document:**
 
 1)  Cost Proposal
 
@@ -2317,17 +2315,17 @@ a.  the laws of the State of Alaska;
 b.  the applicable portion of the Federal Civil Rights Act of 1964;
 
 c.  the Equal Employment Opportunity Act and the regulations issued\
-    > thereunder by the federal government;
+    thereunder by the federal government;
 
 d.  the Americans with Disabilities Act of 1990 and the regulations
-    > issued\
-    > thereunder by the federal government;
+    issued\
+    thereunder by the federal government;
 
 e.  all terms and conditions set out in this RFP;
 
 f.  a condition that the proposal submitted was independently arrived
-    > at,\
-    > without collusion, under penalty of perjury; and
+    at,\
+    without collusion, under penalty of perjury; and
 
 g.  that the offers will remain open and valid for at least 90 days.
 
@@ -2450,7 +2448,7 @@ points)**
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Evaluator\'s Point Total:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[/600]{.ul}\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 The total points possible for the technical evaluation sections above is
 600.
