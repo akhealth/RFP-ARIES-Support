@@ -408,31 +408,27 @@ accepted.
 The following information must be included in all proposals:
 
 ### Authorized Signature
-
-> All proposals must be signed by an individual authorized to bind the
-> offeror to the provisions of the RFP. Proposals must remain open and
-> valid for at least 90-days from the date set as the deadline for
-> receipt of proposals.
+All proposals must be signed by an individual authorized to bind the
+offeror to the provisions of the RFP. Proposals must remain open and
+valid for at least 90-days from the date set as the deadline for
+receipt of proposals.
 
 ### Offeror's Certification
 
-> By signature on the proposal, offerors certify that they comply with
-> the following:
+By signature on the proposal, offerors certify that they comply with
+the following:
 
 a.  the laws of the State of Alaska;
 
 b.  the applicable portion of the Federal Civil Rights Act of 1964;
 
-c.  the Equal Employment Opportunity Act and the regulations issued
-    > thereunder by the federal government;
+c.  the Equal Employment Opportunity Act and the regulations issued thereunder by the federal government;
 
-d.  the Americans with Disabilities Act of 1990 and the regulations
-    > issued thereunder by the federal government;
+d.  the Americans with Disabilities Act of 1990 and the regulations issued thereunder by the federal government;
 
 e.  all terms and conditions set out in this RFP;
 
-f.  a condition that the proposal submitted was independently arrived
-    > at, without collusion, under penalty of perjury; and
+f.  a condition that the proposal submitted was independently arrived at, without collusion, under penalty of perjury; and
 
 g.  that the offers will remain open and valid for at least 90 days.
 
@@ -442,29 +438,29 @@ g.  that the offers will remain open and valid for at least 90 days.
 
 ### Vendor Tax ID
 
-> A valid Vendor Tax ID must be submitted to the issuing office with the
-> proposal or within five days of the State\'s request.
+A valid Vendor Tax ID must be submitted to the issuing office with the
+proposal or within five days of the State\'s request.
 
 ### Conflict of Interest
 
-> Each proposal shall include a statement indicating whether or not the
-> firm or any individuals working on the contract has a possible
-> conflict of interest (e.g., currently employed by the State of Alaska
-> or formerly employed by the State of Alaska within the past two years)
-> and, if so, the nature of that conflict. The procurement officer
-> reserves the right to **consider a proposal non-responsive and reject
-> it** or cancel the award if any interest disclosed from any source
-> could either give the appearance of a conflict or cause speculation as
-> to the objectivity of the contract to be performed by the offeror.
+Each proposal shall include a statement indicating whether or not the
+firm or any individuals working on the contract has a possible
+conflict of interest (e.g., currently employed by the State of Alaska
+or formerly employed by the State of Alaska within the past two years)
+and, if so, the nature of that conflict. The procurement officer
+reserves the right to **consider a proposal non-responsive and reject
+it** or cancel the award if any interest disclosed from any source
+could either give the appearance of a conflict or cause speculation as
+to the objectivity of the contract to be performed by the offeror.
 
 ### Federal Requirements
 
-### The offeror must identify all known federal requirements that apply to the proposal, the evaluation, or the contract  {#the-offeror-must-identify-all-known-federal-requirements-that-apply-to-the-proposal-the-evaluation-or-the-contract .list-paragraph}
+The offeror must identify all known federal requirements that apply to the proposal, the evaluation, or the contract  
 
 ### Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
 
-> Each proposal must include a signed certification form, see Section 8:
-> Attachments.
+Each proposal must include a signed certification form, see Section 8:
+Attachments.
 
 ## Assistance to Offerors With a Disability
 
@@ -747,7 +743,7 @@ processes also include security throughout the effort, so we typically
 refer to our work as DevSecOps. You can find more information about our
 processes in our GitHub repo at [How We
 Work](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md).
-(<https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md>).
+
 
 A successful vendor will have experience working with clients using
 modern software development approaches. These approaches must include
@@ -768,7 +764,7 @@ Chat communications via MS Teams
 Manage and update user stories + workflow tasks in shared project
 management platform (TFS or AzureDevOps)
 
-## transition requirements
+## Transition Requirements
 
 **TRANSITION ACTIVITIES**
 
@@ -795,10 +791,10 @@ Contract be terminated prior to the end of the period of performance,
 the Contractor shall transfer all project materials to the procurement
 officer within two weeks of the procurement officer's request.
 
-## personnel
+## Personnel
 
 Alaska envisions the need for the following skillsets as part of the
-Contractors team*:
+Contractors team:
 
 -   Project manager
 
@@ -824,9 +820,9 @@ Contractors team*:
 
 -   Systems administrator
 
-* Note that one person could meet multiple of these skillset
-suggestions. Alternatively, multiple people could be needed to support
-each of these listed skillsets.
+> Note that one person could meet multiple of these skillset
+> suggestions. Alternatively, multiple people could be needed to support
+> each of these listed skillsets.
 
 **DESIRED SKILLS AND KNOWLEDGE**
 
@@ -916,10 +912,17 @@ month-to-month extension at least 30 days before the desired date of
 cancellation. A month-to-month extension may only be executed by the
 procurement officer via a written contract amendment.
 
-## Deliverables {#deliverables .5.0}
+## Deliverables
 
 Based on the Scope of Work above, the contractor will complete the
 following deliverables:
+
+**Deliverable** | **Description** | **Due Date** 
+--- | ---
+Support Management Plan | Within 30 Calendar days of notification to proceed 
+Initial Applicant and Recipient Data Matching | Within 30 days of notification to proceed
+Annual report | Within 30 days of the end of each State of Alaska fiscal year
+Ad-Hoc reports | As needed
 
 +----------------------+----------------------+----------------------+
 | **Deliverable**      | **Description**      | **Due Date**         |
@@ -1203,7 +1206,7 @@ Only the Alaska technical support team has the authority to inspect,
 accept, or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
-laid out in the quality acceptance plan. (Attachment 9 in the RFP
+laid out in the [quality assurance plan](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md) .
 package)
 
 **SYSTEM DOCUMENTATION**
@@ -1225,7 +1228,7 @@ create and update documentation using these standards where appropriate.
 **QUALITY ASSURANCE**
 
 The contractor shall comply with the acceptable quality levels (AQL) as
-described in the attached quality assurance plan (QAP).
+described in the attached quality assurance plan [QAP](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md) .
 
 ## Contract Type
 
@@ -1239,7 +1242,7 @@ Each billing must consist of an invoice and progress report. No payment
 will be made until the progress report and invoice has been approved by
 the project director.
 
-## Prompt Payment For State Purchases {#prompt-payment-for-state-purchases .3.0}
+## Prompt Payment For State Purchases 
 
 The state is eligible to receive a **5%** discount for all invoices paid
 within **15** business days from the date of receipt of the commodities
@@ -1248,7 +1251,7 @@ shall be taken on the full invoice amount. The state shall consider
 payment being made as either the date a printed warrant is issued or the
 date an electronic funds transfer (EFT) is initiated.
 
-## Contract Payment {#contract-payment .3.0}
+## Contract Payment 
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health and Social Services or the
@@ -1270,7 +1273,7 @@ for the contractor. The contractor must provide its own workspace.
 
 We anticipate much of this work to be performed remotely with close
 collaboration between the project team via digital communication
-methods. There may be some occasions where an onsite visit is required,
+methods. There may be some occasions where an on-site visit is required,
 but those will be the exception rather than the rule.
 
 In the event where an on-site presence is requested, the following State
@@ -2277,7 +2280,7 @@ the United States via contract amendment.
 
 ## Attachment 1 -- Cost Proposal
 
-The cost proposal can be found in this repository at (tbd)
+The cost proposal can be found in this repository at [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.pdf)
 ## Attachment 2 - RFP Checklist
 
 **Important note to offerors:** This checklist is provided to assist
