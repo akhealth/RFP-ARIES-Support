@@ -63,8 +63,6 @@ THIS IS A DRAFT
 
 [Sec. 2.01 Background Information](#background-information-1)
 
-[Section 3. Scope of Work & Deliverables](#scope-of-work-deliverables)
-
 ### Section 3. SCOPE OF WORK AND DELIVERABLES
 
 [Sec. 3.02 Project Management Requirements](#project-management-requirements)
@@ -907,277 +905,103 @@ will run from TBD --TBD.
 Based on the Scope of Work above, the contractor will complete the
 following deliverables:
 
-**Deliverable** | **Description** | **Due Date** 
---- | --- | ---
-Support Management Plan | Within 30 Calendar days of notification to proceed 
-Initial Applicant and Recipient Data Matching | Within 30 days of notification to proceed
-Annual report | Within 30 days of the end of each State of Alaska fiscal year
-Ad-Hoc reports | As needed
+<table>
+<thead>
+<tr class="header">
+<th><strong>Deliverable</strong></th>
+<th><strong>Description</strong></th>
+<th><strong>Due Date</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Support Management Plan</strong></td>
+<td><p>Comprehensive plan that aligns with internal DHSS and DPA processes:</p>
+<ul>
+<li><p>Basic methodology to ensure contract success</p></li>
+<li><p>Staffing plan that outlines appropriate staffing levels and position type</p></li>
+<li><p>Escalation plan that contains process for issue resolution as well as documented corrective action process</p></li>
+<li><p>Prioritization planning process including integration with existing DPA change processes</p></li>
+<li><p>Risk and issue management</p></li>
+<li><p>Plan to release use facing functionality (training, user notification, user testing, pilot activities). This plan needs to integrate with existing DPA plans, and will have to be built in partnership with DPA business and technical leadership</p></li>
+<li><p>Communication plan to include both technical, business, and public facing communication regarding system changes, planned outages, unplanned outages, or general improvements</p></li>
+<li><p>Training plan outlining information to be shared with users, methods for delivering training, document scope and format</p></li>
+</ul></td>
+<td><strong>45 days after full execution of contract</strong></td>
+</tr>
+<tr class="even">
+<td>User Center Design Plan</td>
+<td><ul>
+<li><p>Contains strategy to integrate user research into support and maintenance activities</p></li>
+<li><p>Method for producing discovery synthesis documentation as needed</p></li>
+<li><p>Plan should align with <a href="https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md">https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md</a></p></li>
+</ul></td>
+<td><strong>45 days after full execution of contract</strong></td>
+</tr>
+<tr class="odd">
+<td>Support Activities Report</td>
+<td><p>This report should contain:</p>
+<ul>
+<li><p>Activities performed</p></li>
+<li><p>Number and percentage of completed sprint tasks from the completed sprint</p></li>
+<li><p>Description of any software releases</p>
+<ul>
+<li><p>Issues resolved</p></li>
+<li><p>Versioning information</p></li>
+<li><p>Code review summary</p></li>
+<li><p>Security scan summary</p></li>
+<li><p>Testing summary</p></li>
+<li><p>Links to relevant Git branches, pull requests, and/or commits</p></li>
+<li><p>Screenshots if applicable</p></li>
+</ul></li>
+<li><p>Usability research if applicable</p></li>
+<li><p>Training materials developed or contributed</p></li>
+<li><p>Any system change mock-up or functionality change documentation</p></li>
+<li><p>Updates to any technical diagram or architecture</p></li>
+<li><p>Updates to user facing documentation or technical documentation (see Attachment 8 in the RFP package)</p></li>
+<li><p>Updates to any security documentation</p></li>
+</ul></td>
+<td>At the end of every defined support team sprint (we assume 2-week sprint length but are open to discussion) a report will be created in the team wiki.</td>
+</tr>
+<tr class="even">
+<td>Impact Reports</td>
+<td>The contractor shall be responsible for providing notification to the Alaska technical team when there are activities or issues outside of the contractor’s control, which directly impact the contractor’s performance.</td>
+<td>This notification shall be provided in writing or via email within 24 hours of the anticipated or known impact.</td>
+</tr>
+<tr class="odd">
+<td>Code Repository of Product</td>
+<td>Version-controlled repository of code that comprises product. We strongly prefer that software be developed in a way that can be open sourced.</td>
+<td>Continuously delivered. Any incomplete software will be delivered at the end of the contract.</td>
+</tr>
+<tr class="even">
+<td>Design Deliverables</td>
+<td>Any mockups and/or design files if applicable, or design changes reflected in the Development Prototype. A copy of any document deliverables shall be submitted to the Alaska technical team.</td>
+<td><strong>End of every applicable sprint</strong></td>
+</tr>
+<tr class="odd">
+<td>Disaster Recovery and Business Continuity (DR/BC) Testing Report</td>
+<td><p>Delivery of the results of the DR/BC testing using the guidelines developed by DHSS. Report should contain at a minimum</p>
+<ul>
+<li><p>Any DR failures</p></li>
+<li><p>Any BC failures</p></li>
+<li><p>Hardware or infrastructure difficulties in resuming operations</p></li>
+<li><p>Application and database failures</p></li>
+<li><p>Areas where the plans should be improved or corrected</p></li>
+</ul></td>
+<td><strong>1 year after contract execution and annually thereafter</strong></td>
+</tr>
+<tr class="even">
+<td>Capacity planning report</td>
+<td><p>A review of current system capacity needs (hardware, network infrastructure, support staffing, support work management tools)</p>
+<ul>
+<li><p>This report will be based on interviews with key staff made available by DHSS/DPA, as well as technical information on capacity</p></li>
+</ul></td>
+<td><strong>6 months after contract execution and every 6 months thereafter</strong></td>
+</tr>
+</tbody>
+</table>
 
-+----------------------+----------------------+----------------------+
-| **Deliverable**      | **Description**      | **Due Date**         |
-+======================+======================+======================+
-| Support Management   | Comprehensive plan   | 45 days after full   |
-| Plan                 | that aligns with     | execution of         |
-|                      | internal DHSS and    | contract             |
-|                      | DPA processes:       |                      |
-|                      |                      |                      |
-|                      | -   Basic            |                      |
-|                      |     methodology to   |                      |
-|                      |     ensure contract  |                      |
-|                      |     success          |                      |
-|                      |                      |                      |
-|                      | -   Staffing plan    |                      |
-|                      |     that outlines    |                      |
-|                      |     appropriate      |                      |
-|                      |     staffing levels  |                      |
-|                      |     and position     |                      |
-|                      |     type             |                      |
-|                      |                      |                      |
-|                      | -   Escalation plan  |                      |
-|                      |     that contains    |                      |
-|                      |     process for      |                      |
-|                      |     issue resolution |                      |
-|                      |     as well as       |                      |
-|                      |     documented       |                      |
-|                      |     corrective       |                      |
-|                      |     action process   |                      |
-|                      |                      |                      |
-|                      | -   Prioritization   |                      |
-|                      |     planning process |                      |
-|                      |     including        |                      |
-|                      |     integration with |                      |
-|                      |     existing DPA     |                      |
-|                      |     change processes |                      |
-|                      |                      |                      |
-|                      | -   Risk and issue   |                      |
-|                      |     management       |                      |
-|                      |                      |                      |
-|                      | -   Plan to release  |                      |
-|                      |     use facing       |                      |
-|                      |     functionality    |                      |
-|                      |     (training, user  |                      |
-|                      |     notification,    |                      |
-|                      |     user testing,    |                      |
-|                      |     pilot            |                      |
-|                      |     activities).     |                      |
-|                      |     This plan needs  |                      |
-|                      |     to integrate     |                      |
-|                      |     with existing    |                      |
-|                      |     DPA plans, and   |                      |
-|                      |     will have to be  |                      |
-|                      |     built in         |                      |
-|                      |     partnership with |                      |
-|                      |     DPA business and |                      |
-|                      |     technical        |                      |
-|                      |     leadership       |                      |
-|                      |                      |                      |
-|                      | -   Communication    |                      |
-|                      |     plan to include  |                      |
-|                      |     both technical,  |                      |
-|                      |     business, and    |                      |
-|                      |     public facing    |                      |
-|                      |     communication    |                      |
-|                      |     regarding system |                      |
-|                      |     changes, planned |                      |
-|                      |     outages,         |                      |
-|                      |     unplanned        |                      |
-|                      |     outages, or      |                      |
-|                      |     general          |                      |
-|                      |     improvements     |                      |
-|                      |                      |                      |
-|                      | -   Training plan    |                      |
-|                      |     outlining        |                      |
-|                      |     information to   |                      |
-|                      |     be shared with   |                      |
-|                      |     users, methods   |                      |
-|                      |     for delivering   |                      |
-|                      |     training,        |                      |
-|                      |     document scope   |                      |
-|                      |     and format       |                      |
-+----------------------+----------------------+----------------------+
-| User Center Design   | -   Contains         | 45 days after full   |
-| Plan                 |     strategy to      | execution of         |
-|                      |     integrate user   | contract             |
-|                      |     research into    |                      |
-|                      |     support and      |                      |
-|                      |     maintenance      |                      |
-|                      |     activities       |                      |
-|                      |                      |                      |
-|                      | -   Method for       |                      |
-|                      |     producing        |                      |
-|                      |     discovery        |                      |
-|                      |     synthesis        |                      |
-|                      |     documentation as |                      |
-|                      |     needed           |                      |
-|                      |                      |                      |
-|                      | -   Plan should      |                      |
-|                      |     align with       |                      |
-|                      |     <h               |                      |
-|                      | ttps://github.com/Al |                      |
-|                      | askaDHSS/EIS-Moderni |                      |
-|                      | zation/blob/master/U |                      |
-|                      | sabilityResearch.md> |                      |
-+----------------------+----------------------+----------------------+
-| Support Activities   | This report should   | At the end of every  |
-| Report               | contain:             | defined support team |
-|                      |                      | sprint (we assume    |
-|                      | -   Activities       | 2-week sprint length |
-|                      |     performed        | but are open to      |
-|                      |                      | discussion) a report |
-|                      | -   Number and       | will be created in   |
-|                      |     percentage of    | the team wiki.       |
-|                      |     completed sprint |                      |
-|                      |     tasks from the   |                      |
-|                      |     completed sprint |                      |
-|                      |                      |                      |
-|                      | -   Description of   |                      |
-|                      |     any software     |                      |
-|                      |     releases         |                      |
-|                      |                      |                      |
-|                      |     -   Issues       |                      |
-|                      |         resolved     |                      |
-|                      |                      |                      |
-|                      |     -   Versioning   |                      |
-|                      |         information  |                      |
-|                      |                      |                      |
-|                      |     -   Code review  |                      |
-|                      |         summary      |                      |
-|                      |                      |                      |
-|                      |     -   Security     |                      |
-|                      |         scan summary |                      |
-|                      |                      |                      |
-|                      |     -   Testing      |                      |
-|                      |         summary      |                      |
-|                      |                      |                      |
-|                      |     -   Links to     |                      |
-|                      |         relevant Git |                      |
-|                      |         branches,    |                      |
-|                      |         pull         |                      |
-|                      |         requests,    |                      |
-|                      |         and/or       |                      |
-|                      |         commits      |                      |
-|                      |                      |                      |
-|                      |     -   Screenshots  |                      |
-|                      |         if           |                      |
-|                      |         applicable   |                      |
-|                      |                      |                      |
-|                      | -   Usability        |                      |
-|                      |     research if      |                      |
-|                      |     applicable       |                      |
-|                      |                      |                      |
-|                      | -   Training         |                      |
-|                      |     materials        |                      |
-|                      |     developed or     |                      |
-|                      |     contributed      |                      |
-|                      |                      |                      |
-|                      | -   Any system       |                      |
-|                      |     change mock-up   |                      |
-|                      |     or functionality |                      |
-|                      |     change           |                      |
-|                      |     documentation    |                      |
-|                      |                      |                      |
-|                      | -   Updates to any   |                      |
-|                      |     technical        |                      |
-|                      |     diagram or       |                      |
-|                      |     architecture     |                      |
-|                      |                      |                      |
-|                      | -   Updates to user  |                      |
-|                      |     facing           |                      |
-|                      |     documentation or |                      |
-|                      |     technical        |                      |
-|                      |     documentation    |                      |
-|                      |     (see Attachment  |                      |
-|                      |     8 in the RFP     |                      |
-|                      |     package)         |                      |
-|                      |                      |                      |
-|                      | -   Updates to any   |                      |
-|                      |     security         |                      |
-|                      |     documentation    |                      |
-+----------------------+----------------------+----------------------+
-| Impact Reports       | The contractor shall | This notification    |
-|                      | be responsible for   | shall be provided in |
-|                      | providing            | writing or via email |
-|                      | notification to the  | within 24 hours of   |
-|                      | Alaska technical     | the anticipated or   |
-|                      | team when there are  | known impact.        |
-|                      | activities or issues |                      |
-|                      | outside of the       |                      |
-|                      | contractor's         |                      |
-|                      | control, which       |                      |
-|                      | directly impact the  |                      |
-|                      | contractor's         |                      |
-|                      | performance.         |                      |
-+----------------------+----------------------+----------------------+
-| Code Repository of   | Version-controlled   | Continuously         |
-| Product              | repository of code   | delivered. Any       |
-|                      | that comprises       | incomplete software  |
-|                      | product. We strongly | will be delivered at |
-|                      | prefer that software | the end of the       |
-|                      | be developed in a    | contract.            |
-|                      | way that can be open |                      |
-|                      | sourced.             |                      |
-+----------------------+----------------------+----------------------+
-| Design Deliverables  | Any mockups and/or   | End of every         |
-|                      | design files if      | applicable sprint    |
-|                      | applicable, or       |                      |
-|                      | design changes       |                      |
-|                      | reflected in the     |                      |
-|                      | Development          |                      |
-|                      | Prototype. A copy of |                      |
-|                      | any document         |                      |
-|                      | deliverables shall   |                      |
-|                      | be submitted to the  |                      |
-|                      | Alaska technical     |                      |
-|                      | team.                |                      |
-+----------------------+----------------------+----------------------+
-| Disaster Recovery    | Delivery of the      | 1 year after         |
-| and Business         | results of the DR/BC | contract execution   |
-| Continuity (DR/BC)   | testing using the    | and annually         |
-| Testing Report       | guidelines developed | thereafter           |
-|                      | by DHSS. Report      |                      |
-|                      | should contain at a  |                      |
-|                      | minimum              |                      |
-|                      |                      |                      |
-|                      | -   Any DR failures  |                      |
-|                      |                      |                      |
-|                      | -   Any BC failures  |                      |
-|                      |                      |                      |
-|                      | -   Hardware or      |                      |
-|                      |     infrastructure   |                      |
-|                      |     difficulties in  |                      |
-|                      |     resuming         |                      |
-|                      |     operations       |                      |
-|                      |                      |                      |
-|                      | -   Application and  |                      |
-|                      |     database         |                      |
-|                      |     failures         |                      |
-|                      |                      |                      |
-|                      | -   Areas where the  |                      |
-|                      |     plans should be  |                      |
-|                      |     improved or      |                      |
-|                      |     corrected        |                      |
-+----------------------+----------------------+----------------------+
-| Capacity planning    | A review of current  | 6 months after       |
-| report               | system capacity      | contract execution   |
-|                      | needs (hardware,     | and every 6 months   |
-|                      | network              | thereafter           |
-|                      | infrastructure,      |                      |
-|                      | support staffing,    |                      |
-|                      | support work         |                      |
-|                      | management tools)    |                      |
-|                      |                      |                      |
-|                      | -   This report will |                      |
-|                      |     be based on      |                      |
-|                      |     interviews with  |                      |
-|                      |     key staff made   |                      |
-|                      |     available by     |                      |
-|                      |     DHSS/DPA, as     |                      |
-|                      |     well as          |                      |
-|                      |     technical        |                      |
-|                      |     information on   |                      |
-|                      |     capacity         |                      |
-+----------------------+----------------------+----------------------+
+
 
 **DELIVERY INSTRUCTIONS**
 
