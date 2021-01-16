@@ -27,7 +27,7 @@ THIS IS A DRAFT
 
 **TABLE OF CONTENTS**
 
-[Section 1. Introduction & Instructions](#introduction-instructions)
+### Section 1. INTRODUCTION AND INSTRUCTIONS
 
 [Sec. 1.01 Purpose of the RFP](#purpose-of-the-rfp)
 
@@ -59,13 +59,13 @@ THIS IS A DRAFT
 
 [Sec. 1.15 News Releases](#news-releases)
 
-[Section 2. Background Information](#background-information)
+### Section 2.	BACKGROUND INFORMATION
 
 [Sec. 2.01 Background Information](#background-information-1)
 
 [Section 3. Scope of Work & Deliverables](#scope-of-work-deliverables)
 
-[Sec. 3.01 Scope of Work](#scope-of-work)
+### Section 3. SCOPE OF WORK AND DELIVERABLES
 
 [Sec. 3.02 Project Management Requirements](#project-management-requirements)
 
@@ -108,19 +108,19 @@ Deliverables](#inspection-modification---reimbursement-for-unacceptable-delivera
 
 [Sec. 3.21 Termination For Default](#termination-for-default)
 
-[Section 4. Proposal Format and Content](#proposal-format-and-content)
+### Section 4.	PROPOSAL FORMAT AND CONTENT
 
 [Sec. 4.01 Proposal Format and Content](#proposal-format-and-content-1)
 
 [Sec. 4.02 Introduction](#introduction)
 
-[Sec. 4.03 technical UNDERSTANDING and approach](#technical-understanding-and-approach)
+[Sec. 4.03 Technical Understanding and Approach](#technical-understanding-and-approach)
 
-[Sec. 4.04 project management approach](#project-management-approach)
+[Sec. 4.04 Project Management Approach](#project-management-approach)
 
-[Sec. 4.05 Approach to user INTERFACE and user experience design](#approach-to-user-interface-and-user-experience-design)
+[Sec. 4.05 Approach to User Interface and User Experience Design](#approach-to-user-interface-and-user-experience-design)
 
-[Sec. 4.06 staffing Approach](#staffing-approach)
+[Sec. 4.06 Staffing Approach](#staffing-approach)
 
 [Sec. 4.07 Similar Experience and Qualifications](#similar-experience-and-qualifications)
 
@@ -130,7 +130,7 @@ Deliverables](#inspection-modification---reimbursement-for-unacceptable-delivera
 
 [Sec. 4.10 Evaluation Criteria](#evaluation-criteria)
 
-[Section 5. Evaluation Criteria and Contractor Selection](#evaluation-criteria-and-contractor-selection)
+### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
 [Sec. 5.01 technical understanding and approach (10%)](#technical-understanding-and-approach-10)
 
@@ -146,7 +146,7 @@ Deliverables](#inspection-modification---reimbursement-for-unacceptable-delivera
 
 [Sec. 5.07 Contract Cost (40%)](#contract-cost-40)
 
-[Section 6. General Process Information](#general-process-information)
+### Section 6.	GENERAL PROCESS INFORMATION
 
 [Sec. 6.01 Informal DeBriefing](#informal-debriefing)
 
@@ -170,7 +170,7 @@ Deliverables](#inspection-modification---reimbursement-for-unacceptable-delivera
 
 [Sec. 6.11 Examples: Converting Cost to Points](#examples-converting-cost-to-points)
 
-[Section 7. General Legal Information](#general-legal-information)
+### Section 7. GENERAL LEGAL INFORMATION
 
 [Sec. 7.01 Standard Contract Provisions](#standard-contract-provisions)
 
@@ -200,7 +200,7 @@ Deliverables](#inspection-modification---reimbursement-for-unacceptable-delivera
 
 [Sec. 7.14 Federally Imposed TaRiffs](#federally-imposed-tariffs)
 
-[Section 8. Attachments](#attachments)
+### Section 8. Attachments
 
 [Sec. 8.01 Attachment 1 -- Cost Proposal](#attachment-1-cost-proposal)
 
@@ -908,7 +908,7 @@ Based on the Scope of Work above, the contractor will complete the
 following deliverables:
 
 **Deliverable** | **Description** | **Due Date** 
---- | ---
+--- | --- | ---
 Support Management Plan | Within 30 Calendar days of notification to proceed 
 Initial Applicant and Recipient Data Matching | Within 30 days of notification to proceed
 Annual report | Within 30 days of the end of each State of Alaska fiscal year
@@ -1541,7 +1541,7 @@ proposals may cause the proposal to be determined to be non-responsive
 and the proposal may be rejected. Introduction is included in the page
 limit.
 
-## technical UNDERSTANDING and approach 
+## technical understanding and approach 
 
 Succinctly describe level of knowledge, technical expertise and overall
 understanding of the responsibilities as set forth in Section 3: Scope
@@ -1576,7 +1576,7 @@ verbal presentations, the following areas of project management:
 
 Project Management Approach is included in the page limit.
 
-## Approach to user INTERFACE and user experience design 
+## Approach to user interface and user experience design 
 
 Proposals must contain information that describes how you will perform
 user experience and user interface design as a part of the overall user
@@ -1588,7 +1588,7 @@ changes, there will need to be some amount of user research and design.
 Approach to User Interface and User Experience Design is included in the
 page limit.
 
-## staffing Approach 
+## Staffing Approach 
 
 Offerors should provide a staffing approach that describes your
 understanding of the responsibilities and details the number or
@@ -1635,17 +1635,16 @@ contract, please provide the following:
 
 ## Verbal Presentation 
 
-[]{#_verbal_presentation .anchor}Responsive offerors will be invited to
-participate in a verbal presentation to be evaluated. The verbal
-presentation will consist of a short demo and unstructured question and
-answer session. The entire verbal presentation will take place remotely
-via video chat and/or teleconference.
+Responsive offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of a short demo and unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
 
-  No.   Agenda Item                             Maximum Time
-  ----- --------------------------------------- -------------------------
-  1     Introductions                           Approximately 5 minutes
-  2     Open Technical Session Including Demo   90 minutes
-  3     Closing Remarks                         5 minutes
+##### Table 2 Verbal Presentation
+**Agenda Item** | **Maximum Time** 
+--- | ---
+Introductions | Approximately 5 minutes
+Open Technical Session Including Demo | 90 minutes
+Question and Answer Session | 30 minutes
+Closing Remarks | 5 minutes
+
 
 During the open technical session, the Offeror will respond to the
 State's questions related to the technical aspects of the Offeror's
