@@ -44,7 +44,7 @@ _Important note - Questions about this RFP should be [posted here](https://githu
 
 ### How to respond
 
-We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/ARIES_SUPPORT_RFP.md#evaluation-criteria) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
+We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/ARIES_SUPPORT_RFP.md#proposal-format-and-content-1) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
 
 ### Budget
 
