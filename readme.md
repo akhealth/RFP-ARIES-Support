@@ -4,6 +4,8 @@
 
 This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this repository (https://github.com/AlaskaDHSS/RFP-ARIES-Support/issues) 
 
+All questions must be received by **February 3rd, 2021** in the form of an issue posted to this repository. 
+
 When we are ready to release the official RFP it will be posted here in this repository and will also be listed in the official State of Alaska Vendor Self Service Portal https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService
 
 ## Important note about referenced documentation
