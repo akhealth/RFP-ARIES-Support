@@ -1160,7 +1160,7 @@ proposal the names of the subcontractors and the portions of the work
 the subcontractors will perform.
 
 Subcontractor experience shall not be considered in determining whether
-the offeror meets the requirements set forth in Sec. [1.04]((#minimum-qualifications))
+the offeror meets the requirements set forth in Sec. [1.04](#sec-104-minimum-qualifications)
 
 If a proposal with subcontractors is selected, the offeror must provide
 the following information concerning each prospective subcontractor
@@ -1617,7 +1617,7 @@ design, and continuous deployment methods.
 The State will evaluate the offeror's response to questions regarding
 the technical aspects of the proposal as discussed during the verbal
 presentation. The State will also evaluate the offeror's technical
-demonstration as outlined in [Section 4.08](#verbal-presentation).
+demonstration as outlined in [Section 4.08](#sec-408-verbal-presentation).
 
 ## Sec. 5.07 Contract Cost (40%)
 
@@ -2077,26 +2077,6 @@ the United States via contract amendment.
 
 **Attachments Included within this document:**
 
-1)  Cost Proposal
-
-2)  RFP Checklist
-
-3)  Proposal Evaluation Form
-
-4)  Certification Regarding Debarment
-
-5)  Standard Agreement Form - Appendices A -- E (includes HIPAA BAA and
-    NDA)
-
-6)  DHSS Sample Security Authorization Package -- Moderate Control Set
-    > (**NOTE**: ARIES requires compliance with the MARS-E 2.0 control
-    > set. This is just a sample of a department approved security
-    > authorization package)
-
-7)  Technical Documentation Example
-
-8)  Quality Assurance Plan
-
 ## Sec. 8.01 Attachment 1 -- Cost Proposal
 
 The cost proposal can be found in this repository at [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.pdf)
@@ -2129,18 +2109,20 @@ The Quality Assurance Plan can be found in this repository at [Attachment 7 - QA
 
 The Technical Documentation Example can be found in this repository at [Attachment 8 - Technical Documentation Example](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2008-technical_documentation_example.PNG)
 
-## Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition
+## Sec. 8.09 Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition
 
 The DHSS IT Requirements Agile Acquisition documentation can be found in this repository at [Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20REFERENCE%20A%20-%20DHSS%20IT%20REQUIREMENTS%20AGILE%20ACQUISITION.pdf)
 
-## Attachment 10 - IT Reference D - DHSS Information Technology Standards
+## Sec. 8.10 Attachment 10 - IT Reference D - DHSS Information Technology Standards
 
 The DHSS Information Technology Standards can be found in this repository at [Attachment 10 - IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf)
 
-## Attachment 11 IT Reference F - Data Destruction Information and References
+## Sec. 8.11 Attachment 11 IT Reference F - Data Destruction Information and References
 
 The Data Destruction Information and References can be found in this repository at [Attachment 11 IT Reference F - Data Destruction Information and References](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2011%20IT%20Reference%20F%20-%20Data%20Destruction%20Information%20and%20References.pdf)
 
-## Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set
+## Sec. 8.12 Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set
 
 The DHSS Sample Security Authorization Package - Moderate Control Set can be found in this repository at [Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2012%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set.pdf)
+
+ (**NOTE**: ARIES requires compliance with the MARS-E 2.0 control set. This is just a sample of a department approved security authorization package)
