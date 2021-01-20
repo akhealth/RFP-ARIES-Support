@@ -220,6 +220,14 @@ Moderate Control Set](#attachment-6-dhss-sample-security-authorization-package-m
 
 [Sec. 8.08 Attachment 8 -- Quality Assurance Plan](#attachment-8-quality-assurance-plan)
 
+[Sec. 8.09 Attachment 9 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](#attachment-8-quality-assurance-plan)
+
+[Sec. 8.10 Attachment 10 - IT Reference D - DHSS Information Technology Standards](#attachment-8-quality-assurance-plan)
+
+[Sec. 8.11 Attachment 11 IT Reference F - Data Destruction Information and References](#attachment-8-quality-assurance-plan)
+
+[Sec. 8.12 Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](#attachment-8-quality-assurance-plan)
+
 
 # Section 1 Introduction & Instructions
 
