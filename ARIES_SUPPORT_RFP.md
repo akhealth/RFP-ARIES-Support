@@ -935,7 +935,7 @@ following deliverables:
 <li><p>Communication plan to include both technical, business, and public facing communication regarding system changes, planned outages, unplanned outages, or general improvements</p></li>
 <li><p>Training plan outlining information to be shared with users, methods for delivering training, document scope and format</p></li>
 </ul></td>
-<td><strong>45 days after full execution of contract</strong></td>
+<td><strong>45 days after full execution of contract and as needed for the life of the contract</strong></td>
 </tr>
 <tr class="even">
 <td>User Center Design Plan</td>
@@ -944,7 +944,7 @@ following deliverables:
 <li><p>Method for producing discovery synthesis documentation as needed</p></li>
 <li><p>Plan should align with <a href="https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md">https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md</a></p></li>
 </ul></td>
-<td><strong>45 days after full execution of contract</strong></td>
+<td><strong>45 days after full execution of contract and as needed for the life of the contract</strong></td>
 </tr>
 <tr class="odd">
 <td>Support Activities Report</td>
