@@ -95,7 +95,7 @@ delivery process for product increments.
 
 Are the Offeror. You bring a talented team of individuals who possess
 great tech chops, strong user centered design skills and proven
-experience implementing web-based platforms. Ideally, your
+experience maintaining modern web-based platforms. Ideally, your
 implementations have been developed using open source principles and
 experiences.
 
@@ -104,21 +104,16 @@ continuous-integration/continuous-deployment processes. You are used to
 having your code peer reviewed and are ready to contribute your best
 while accepting and incorporating constructive feedback.
 
-In essence, you are ready to apply your talent and experience to build a
-product increment for us.
+In essence, you are ready to apply your talent and experience to work with DHSS technical and program teams to ensure that critical public facing infrastructure is well maintainted. 
 
 *To get to done…*
 
-We need to work together. Creating a good solution can be
-straight-forward, but successfully delivering that solution into an
-existing IT environment can be complicated. Modular acquisition is new
-to DHSS IT and many of our IT service lines are still learning about how
-to support it.
+We need to work together. Creating solutions can be
+straight-forward, but successfully delivering those solutions into an
+existing IT environment can be complicated.
 
-The purpose of the IT Requirements for modular acquisition is give you
-insight into delivering into our IT environment, and help us both
-prepare for completing a successful product increment. We want to do our
-part to help you succeed\!
+The purpose of the IT Requirements for agile aquisition is give you
+insight into delivering value into our IT environment, and to help us both provide quality support to ensure that the goals outlined in this RFP are met. We want to do our part to help you succeed\!
 
 So, let’s talk a little about the DHSS IT organization…
 
@@ -155,27 +150,25 @@ services lines to get to done.
 
 ## IT Requirements Intent and Approach
 
-DHSS IT believes that modular acquisition properly aligns the risks and
+DHSS IT believes that our current support strategy properly aligns the risks and
 responsibilities. DHSS owns the end-product. So, we own the risks and
 responsibilities of envisioning the product increments, directing the
 technical changes we can support, and managing the product artifacts,
 the delivery pipelines and the environments in which the product
 ultimately executes.
 
-The Offeror owns the work of understanding the product requirements and
+The Offeror owns the work of understanding the support needs and
 translating those into well-designed, well-tested, secure and working
-software product. So, the Offeror owns the risks and responsibilities of
-innovating; filling-in and realizing the details of the product
-increment in a manner acceptable to DHSS.
+software. This also includes developing processes and strategy with DHSS to ensure that the platform is secure, supported and efficient for users. So, the Offeror owns the risks and responsibilities of
+innovating; filling-in and realizing the details of the platform and program needs in a manner acceptable to DHSS.
 
-In modular acquisition both DHSS and the Offeror accept significant
-constraints absent from risk-laden traditional acquisition models.
+In our current structure both DHSS and the Offeror accept significant
+constraints absent from risk-laden traditional support models.
 However, in exchange for those constraints each party is freed from
 substantial risks as well.
 
 The intent of the IT requirements is to relate and orient DHSS IT and
-the Offeror to the expected DHSS services needed to support the work of
-modular acquisition.
+the Offeror to the expected DHSS services needed to support the work.
 
 At a high-level, these IT requirements support the proposal solicitation
 by meeting two goals:
@@ -194,18 +187,15 @@ requirements related to desktop and mobile endpoints in the “Enterprise
 Desktop Services and Standards” section.
 
 Note that specific technology product standards are located in
-*Attachment D: DHSS Information Technology Standards*, which is
+[*Attachment 10 IT Reference D - DHSS Information Technology Standards*](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf), which is
 structured similarly to the IT Requirements document.
 
 ## Operational Delivery Models
 
-In agile acquisition, DHSS owns the product and we expect to host
+In our agile acquisition model, DHSS owns the product and we expect to host
 product components in either DHSS datacenters or a DHSS managed cloud
 hosted location. This means the product fits in our IT Environment. As
-the Offeror, we expect you to deliver in a Scrum-based process that
-often protects you from having to bear the concerns of managing the IT
-Environment. It is *our* IT Environment – we own it, warts and all. So,
-we don’t expect you to be an expert in it on day one\!
+the Offeror, we expect you to work with us, using our preferred work processes. This means that if you are working to build out a new bug fix, an updated data entry screen, or maintaining database health, you will be working alongside DHSS technical teams. So, we don’t expect you to be an expert in it on day one\!
 
 But that doesn’t mean we don’t want you to learn about the DHSS IT
 Environment. Au contraire\! We *do* expect you to learn enough about our
@@ -325,7 +315,7 @@ this will save us both time in the long run\!
 > The Offeror must include project activities to reach agreement with
 > DHSS IT and Program staff on DHSS IT support service lines and
 > identify any gaps. All gaps identified must include a plan of action
-> to address and resolve the gaps.
+> to address and resolve the gaps. This information should be included in the required support management plan deliverable.
 
 ### DHSS Service Line Engagement and Planning 
 
@@ -455,13 +445,13 @@ In our agile acquisition practice, we expect you to define work within
 our ALM work-item structure and associate change sets with that work. We
 also expect you to clone Git repositories from our ALM solution,
 complete work and deliver that work regularly by pushing branches and
-submitting pull requests. This is outlined in detail in our DevSecOpsMVP
-repository’s [Git Branching
-Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+submitting pull requests. This is outlined in detailed in our EIS Modernization GitHub repository 
+[Git Branching
+Strategy](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/azure-devops/GitBranchingStrategy.md).
 
 #### Requirement
 
-> Requirements, design documents, source code, configuration files and
+> Requirements, design documents, source code, configuration files, documentation and
 > binaries that are versioned through time must be managed in one or
 > more version control repositories such that any released version of
 > these artifacts can be retrieved later to rebuild the information
@@ -572,11 +562,23 @@ licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 #### Requirement
 
-> If a federal grant was used for this solution, the federal government
+> If federal funds are used for this solution, the federal government
 > reserves a royalty-free, non-exclusive, and irrevocable license to
 > reproduce, publish, or otherwise use, and to authorize others to use,
 > for federal government purposes, the copyright in any work developed
 > under a grant, sub-grant.
+
+### Data Ownership
+
+#### Requirement
+
+> The State shall have unlimited rights to use, disclose or duplicate, for any purpose whatsoever, all information> and data developed, derived, documented, installed, improved, or furnished by the contractor under thiscontract.> All files containing any DHSS information are the sole and exclusive property of the State. The contractor
+> agrees not to use information obtained for any purposes not directly related to this contract without prior 
+> written permission from the State. Contractor agrees to abide by all federal and State confidentiality 
+> requirements. 
+
+> In addition, the Contractor agrees to provide to the State, at the end or at any time during the contractual 
+> period, the data managed by the solution, in whole or in part, in a format as agreed upon by both parties.
 
 ## Systems Integration and DDI Services and Standards
 
@@ -638,15 +640,11 @@ Index (MCI). The MCI connects client demographic records across
 applications and systems that create, read, or update client, consumer
 or other person demographic data in DHSS systems.
 
-We are supplying you with the Person Services WSDL, which describes the
-web-services interface for accessing the DHSS MCI. Solutions that
-create, read, or update client, consumer, or other person demographic
+Solutions that create, read, or update client, consumer, or other person demographic
 data must integrate with the MCI to ensure their demographic records are
 registered in the MCI and appropriately merged with matching client
 records in the index. Such solutions must also provide updates to the
-MCI that handle record duplication, deactivation. See Attachment
-E—Person Services WSDL for the web service description.
-
+MCI that handle record duplication, deactivation.
 #### Requirement – Master Client Index (MCI) Integration
 
 > The Offeror must integrate their proposed solution with the DHSS
@@ -691,6 +689,15 @@ functions.
 > to support this gap analysis and DDI activities to interface between
 > IRIS, ALDER and the proposed solution.
 
+### Authentication and Single Sign On
+
+DHSS has established a standard authentication platform, using Microsoft’s Active Directory (AD) to support authentication for DHSS hosted systems.  DHSS AD provides a uniform authentication mechanism for DHSS staff and sponsored external partner/contractor staff to manage authorized access to department information systems.  Leveraging the DHSS AD allows the Offeror’s solution to inherit the account management, authentication, and audit-logging features of the DHSS AD to validate authorized access and meet several technical security controls.
+
+#### Requirement – Single Sign On 
+
+> The Offeror must integrate their solution with the Alaska DHSS AD.  The integration must support authentication via the DHSS AD domain to authenticate access requests prior to
+> authorization.  The Offeror will include cost and activities in their proposal to support the DHSS AD integration.
+
 ### Technical Services and Development Platform
 
 In our legacy practices, we struggled with individuals who made
@@ -700,7 +707,7 @@ established a standard technical services platform for developing and
 operating software solutions. Additionally, we practice a simple
 software development lifecycle (SDLC), Scrum, and we employ structural
 code scanning tools within the practice of a secure development
-lifecycle (SecDLC). We expect you to align your proposal, processes and
+lifecycle (DevSecOps). We expect you to align your proposal, processes and
 work-products with this DHSS standard technical services platform.
 
 DHSS IT operates a leading application lifecycle management (ALM)
@@ -708,7 +715,7 @@ platform. See *Attachment D—DHSS Information Technology Standards* for
 details on this tool. We expect you will use a work management system
 and continuous integration and continuous deployment pipeline that we
 implement for you on our instance of the ALM platform. By operating this
-way, you will automatically meet requirement 3.5.4.2.
+way, you will automatically meet [requirement](Requirement – Software Development Lifecycle (SDLC)).
 
 #### Requirement – Development Platform
 
@@ -814,7 +821,7 @@ components
 | Host Operating System                         | Microsoft Windows Workstation           |
 |                                               | Microsoft Windows Server                |
 | Security Policy and Compliance                | RSA Archer                              |
-| Application Lifecycle Management              | Microsoft Team Foundation Server        |
+| Application Lifecycle Management              | Microsoft AzureDevOps and Team Foundation Server      |
 |                                               | Microsoft SQL Server Reporting Services |
 |                                               | Microsoft SharePoint                    |
 
@@ -837,7 +844,7 @@ System Operations and Administration Services service line.
 > designs with DHSS IT stakeholders in the System Operations and
 > Administration Services service line.
 > 
-> The Offeror must strive to extend DevSecOpsMVP principles and
+> The Offeror must strive to extend DevSecOps principles and
 > repository content in their approach to all configuration change items
 > required for target environments, and must engage the System
 > Operations and Administration staff allocated to the project to
@@ -886,7 +893,6 @@ have to destroy some data.
 
 > The Offeror must comply with the Department of Health & Social
 > Service’s policies and procedures for record retention
-> (<http://archives.alaska.gov/records_management/schedules/hss_retention.html>)
 > and disposal of sensitive information (Attachment F—Data Destruction
 > Information and References), if applicable.
 
@@ -923,7 +929,7 @@ additional security control requirements mandated by the sponsoring
 agency.
 
 In the case of systems sponsored by the Centers for Medicare and
-Medicaid Services (CMS), there must be a MARS-e compliant – a different
+Medicaid Services (CMS), there must be a MARS-E 2.0 compliant – a different
 control set than the NIST 800-66 control set – system security plan.
 Attachments H and G do not apply to these scenarios.
 
@@ -1244,7 +1250,7 @@ geo-redundant data centers located in Juneau and Anchorage.
 > premise hosted solution components outside the identified DHSS
 > standards are required to provide additional information, including
 > DHSS Platform services aligned alternatives, as outlined in the
-> section *3.9.1.4 Requirement – Hosting Platform Alignment* requirement
+> section *Requirement – Hosting Platform Alignment* 
 > below.
 
 #### Requirement – Solution Platform Characteristics
