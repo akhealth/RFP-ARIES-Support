@@ -1380,7 +1380,7 @@ understanding of the responsibilities as set forth in Section 3: Scope
 of Work & Deliverables. This is also an opportunity to discuss, either
 in the written proposal or during the verbal presentation, any technical
 risks or opportunities. Technical Understanding and Approach is included
-in the page limit.
+in the page limit. This section should include your proposed plans to adhere to the technical requirements and standards listed out in attachment [9](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20REFERENCE%20A%20-%20DHSS%20IT%20REQUIREMENTS%20AGILE%20ACQUISITION.pdf) and [10](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf)
 
 ## Sec. 4.04 Project Management Approach
 
