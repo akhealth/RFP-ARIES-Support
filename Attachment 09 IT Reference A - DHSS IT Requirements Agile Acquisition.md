@@ -717,7 +717,7 @@ platform. See [Attachment 10 IT Reference D - DHSS Information Technology Standa
 details on this tool. We expect you will use a work management system
 and continuous integration and continuous deployment pipeline that we
 implement for you on our instance of the ALM platform. By operating this
-way, you will automatically meet [requirement 3.5.5.2](#3552-requirement--software -development-lifecycle-sdlc)
+way, you will automatically meet [requirement 3.5.5.2](#3552-requirement--software-development-lifecycle-sdlc)
 
 #### 3.5.5.1 Requirement – Development Platform
 
@@ -1271,7 +1271,7 @@ geo-redundant data centers located in Juneau and Anchorage.
 > premise hosted solution components outside the identified DHSS
 > standards are required to provide additional information, including
 > DHSS Platform services aligned alternatives, as outlined in the
-> section [Requirement – Hosting Platform Alignment](#3914-requirement--hosting-platform-alignment)
+> section [Requirement 3.9.1.4](#3914-requirement--hosting-platform-alignment)
 > below.
 
 #### 3.9.1.3 Requirement – Solution Platform Characteristics
