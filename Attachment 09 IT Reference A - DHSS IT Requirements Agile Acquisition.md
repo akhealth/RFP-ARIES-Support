@@ -10,41 +10,41 @@ TABLE OF CONTENTS
 
 [1 Purpose of IT Requirements](#1-purpose-of-it-requirements-for-modular-acquisition)
 
-[1.1 IT Services Organization Summary](#1.1-it-services-organization-summary)
+[1.1 IT Services Organization Summary](#11-it-services-organization-summary)
 
-[1.2 IT Requirements Intent and Approach](#1.2-it-requirements-intent-and-approach)
+[1.2 IT Requirements Intent and Approach](#12-it-requirements-intent-and-approach)
 
-[1.3 Operational Delivery Models](#1.3-operational-delivery-models)
+[1.3 Operational Delivery Models](#13-operational-delivery-models)
 
 [2 Technical Qualifications Response](#2-technical-qualifications-response)
 
-[2.1 Understanding of the Technical Aspects of the Project](#2.1-understanding-of-the-technical-aspects-of-the-project)
+[2.1 Understanding of the Technical Aspects of the Project](#21-understanding-of-the-technical-aspects-of-the-project)
 
 [3 State of Alaska DHSS Technology Services, Standards and IT Road Map](#3-state-of-alaska-dhss-technology-services-and-standards)
 
-[3.1 DHSS Information Technology Services Staffing Support](#3.1-dhss-information-technology-services-staffing-support)
+[3.1 DHSS Information Technology Services Staffing Support](#31-dhss-information-technology-services-staffing-support)
 
-[3.2 Engagement and Service Delivery Management Services and Standards](#3.2-engagement-and-service-delivery-management-services-and-standards)
+[3.2 Engagement and Service Delivery Management Services and Standards](#32-engagement-and-service-delivery-management-services-and-standards)
 
-[3.3 Project Portfolio Management Services and Standards](#3.3-project-portfolio-management-services-and-standards)
+[3.3 Project Portfolio Management Services and Standards](#33-project-portfolio-management-services-and-standards)
 
-[3.4 Asset Management Services and Standards](#3.4-asset-management-services-and-standards)
+[3.4 Asset Management Services and Standards](#34-asset-management-services-and-standards)
 
-[3.5 Systems Integration and DDI Services and Standards](#3.5-systems-integration-and-ddi-services-and-standards)
+[3.5 Systems Integration and DDI Services and Standards](#35-systems-integration-and-ddi-services-and-standards)
 
-[3.6 Systems Operations and Administration Services and Standards](#3.6-systems-operations-and-administration-services-and-standards)
+[3.6 Systems Operations and Administration Services and Standards](#36-systems-operations-and-administration-services-and-standards)
 
-[3.7 Information Security Compliance and Privacy Services and Standards](#3.7-information-security-compliance-and-privacy-services-and-standards)
+[3.7 Information Security Compliance and Privacy Services and Standards](#37-information-security-compliance-and-privacy-services-and-standards)
 
-[3.8 Enterprise Desktop and Mobility Services and Standards](#3.8-enterprise-desktop-and-mobility-services-and-standards)
+[3.8 Enterprise Desktop and Mobility Services and Standards](#38-enterprise-desktop-and-mobility-services-and-standards)
 
-[3.9 DHSS Hosting and Datacenter Services and Standards](#3.9-dhss-hosting-and-datacenter-services-and-standards)
+[3.9 DHSS Hosting and Datacenter Services and Standards](#39-dhss-hosting-and-datacenter-services-and-standards)
 
-[3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards](#3.10-dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
+[3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards](#310-dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
 
-[3.11 Accessibility](#3.11-accessibility)
+[3.11 Accessibility](#311-accessibility)
 
-[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance](#3.12-state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
+[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Governance](#312-state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
 
 # 1 Purpose of IT Requirements for Modular Acquisition
 
@@ -434,7 +434,7 @@ Services is matrixed per the following organizational mapping:
 ### 3.4.1 Artifact Version Management
 
 We operate a leading application lifecycle management (ALM) solution.
-See *Attachment D—DHSS Information Technology Standards* for details on
+See [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for details on
 this tool. We’re sure it won’t surprise you that the folks who pay the
 bills want us to receive and manage the artifacts you create. In our
 agile acquisition practice we have added service supports to
@@ -713,16 +713,15 @@ lifecycle (DevSecOps). We expect you to align your proposal, processes and
 work-products with this DHSS standard technical services platform.
 
 DHSS IT operates a leading application lifecycle management (ALM)
-platform. See *Attachment D—DHSS Information Technology Standards* for
+platform. See [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for
 details on this tool. We expect you will use a work management system
 and continuous integration and continuous deployment pipeline that we
 implement for you on our instance of the ALM platform. By operating this
-way, you will automatically meet [requirement 3.5.5.2](3.5.5.2-requirement---software development-lifecycle-(SDLC)).
+way, you will automatically meet [requirement 3.5.5.2](#3552-requirement--software -development-lifecycle-sdlc)
 
 #### 3.5.5.1 Requirement – Development Platform
 
-> The Offeror will use the software identified in *Attachment D—DHSS
-> Information Technology Standards* for the development and deployment
+> The Offeror will use the software identified in [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for the development and deployment
 > of this application. The Offeror must collaborate with the State to
 > determine all development and operating platform software and versions
 > the application components are designed in, and how this solution will
@@ -827,7 +826,7 @@ components
 |                                               | Microsoft SQL Server Reporting Services |
 |                                               | Microsoft SharePoint                    |
 
-See *Attachment D—DHSS Information Technology Standards* for the list of
+See [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for the list of
 actual technical service components administered by DHSS IT within the
 System Operations and Administration Services service line.
 
@@ -904,8 +903,7 @@ have to destroy some data.
 
 > The Offeror must comply with the Department of Health & Social
 > Service’s policies and procedures for record retention
-> and disposal of sensitive information (Attachment F—Data Destruction
-> Information and References), if applicable.
+> and disposal of sensitive information [Attachment 11 IT Reference F - Data Destruction Information and References](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2011%20IT%20Reference%20F%20-%20Data%20Destruction%20Information%20and%20References.pdf), if applicable.
 
 #### 3.7.1.2 Requirement – Data Destruction
 
@@ -929,9 +927,7 @@ reviewed by the Department Security Office and/or their designees.
 
 We audit security controls for the DHSS Risk Assessment regardless of
 whether an application/solution is hosted on premise or elsewhere. The
-Department’s current IT security standards are provided in Attachment
-H—Security Standards - NIST800-53 Controls, and Attachment G: Security
-Standards – Security Plan Template.
+Department’s current IT security standards are provided in [Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2012%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set.pdf).
 
 We use a FIPS-199 based process to assess business impacts and select
 controls. Generally, a moderate impact categorized system will use a
@@ -942,7 +938,7 @@ agency.
 In the case of systems sponsored by the Centers for Medicare and
 Medicaid Services (CMS), there must be a MARS-E 2.0 compliant – a different
 control set than the NIST 800-66 control set – system security plan.
-Attachments H and G do not apply to these scenarios.
+Attachment 12 IT Reference H does not apply to these scenarios.
 
 #### 3.7.2.1 Requirement – Security Plan
 
@@ -952,7 +948,7 @@ Attachments H and G do not apply to these scenarios.
   - A complete State Security Plan Framework (Attachment H) for review
     and approval by the Department Security Office.
 
-  - The Security Plan (Attachment G) shall be compliant with, and
+  - The Security Plan shall be compliant with, and
     reference (where appropriate) all State (enterprise) and DHSS IT
     Security Policies and all applicable State and Federal IT
     legislation. The State will facilitate the development and approval
@@ -990,7 +986,7 @@ Attachments H and G do not apply to these scenarios.
 > DHSS operates as a single covered entity. If the scope of contracted
 > work requires sharing confidential data under HIPAA, the DHSS Business
 > Associate Agreement must be signed at contract award in accordance
-> with Attachment H.
+> with [Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2012%20IT%20Reference%20H%20-%20DHSS%20Sample%20Security%20Authorization%20Package%20-%20Moderate%20Control%20Set.pdf).
 
 #### 3.7.2.4 Requirement – Authority to Operate
 
@@ -1090,8 +1086,7 @@ approved, supported hardware and software within our IT Environment. We
 also expect to define and develop software and processes that do not
 require elevated privileges to perform normal business functions. This
 approach ensures our Enterprise Desktop and Mobility requirements are
-met. See *Attachment D—DHSS Information Technology Standards \>
-Enterprise Desktop Service Standards* for currently supported hardware,
+met. See [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for currently supported hardware,
 operating system(s), web browser version(s) and desktop productivity
 software.
 
@@ -1132,9 +1127,8 @@ supported.
 #### 3.8.1.3 Requirement – Web Browser Compatibility
 
 > The Offeror must plan to support proposed solution compatibility with
-> DHSS currently deployed web browser version(s) – See Attachment D –
-> *Information Technology Standards \> Enterprise Desktop Service
-> Standards \> Software* for currently support browser versions. The
+> DHSS currently deployed web browser version(s) – See
+> [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for currently support browser versions. The
 > required functionality of the solicitation must be fully supported, or
 > the Offeror must include in their proposal the plan cost and
 > activities to make the proposed solution fully supported.
@@ -1271,13 +1265,13 @@ geo-redundant data centers located in Juneau and Anchorage.
 > to affect change appropriately.
 > 
 > The DHSS Infrastructure and Platform services component standards are
-> located in *Attachment D—DHSS Information Technology Standards*. DHSS
+> located in [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf). DHSS
 > is, generally, standardized on Microsoft software components for our
 > on-DHSS premise Platform services. Offerors who propose on-DHSS
 > premise hosted solution components outside the identified DHSS
 > standards are required to provide additional information, including
 > DHSS Platform services aligned alternatives, as outlined in the
-> section *Requirement – Hosting Platform Alignment* 
+> section [Requirement – Hosting Platform Alignment](#3914-requirement--hosting-platform-alignment)
 > below.
 
 #### 3.9.1.3 Requirement – Solution Platform Characteristics
@@ -1295,8 +1289,7 @@ geo-redundant data centers located in Juneau and Anchorage.
 
 #### 3.9.1.4 Requirement – Hosting Platform Alignment
 
-> The Offeror will use the software identified in *Attachment D—DHSS
-> Information Technology Standards* for the hosting of this application.
+> The Offeror will use the software identified in [Attachment 10 IT Reference D - DHSS Information Technology Standards](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf) for the hosting of this application.
 > The Offeror must state which version the application components are
 > implemented in and how this solution will be accessed in the DHSS
 > environment. You will need to identify what skills and expertise would
