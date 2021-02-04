@@ -287,7 +287,7 @@ minimums below.
 
 
 - Contractor must have a minimum of three (3) years' experience in 
-the last five (5) years, conducting Health and Human Services    
+the last five (5) years, conducting health or human services    
 system support operations services. This experience must include 
 maintenance and updates of an enterprise technology system       
 
