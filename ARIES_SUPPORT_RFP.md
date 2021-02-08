@@ -563,12 +563,12 @@ In addition to these users there are multiple community partners that
 access the system to assist in the public assistance program
 administration.
 
-The MAGI Medicaid eligibility system is based on an IBM WebSphere
-software platform utilizing Microsoft Servers currently hosted on the
-State of Alaska virtual infrastructure.
+The MAGI Medicaid eligibility system is based on an IBM WebSphere software platform utilizing Microsoft Servers currently hosted on the State of Alaska virtual infrastructure. This virtual infrastructure is maintained by the Office of Information Technology under the Department of Administration. DHSS is currently responsible for the applications that run on this infrastructure. 
 
-The system communicates with multiple Federal and state partners to
-transfer information and documentation.
+The current Azure infrastructure, in limited use, is managed by DHSS. 
+
+The system communicates with multiple Federal and state partners to transfer information and documentation.
+
 
 DPA utilizes modern software delivery methods. We are user centric and
 integrate security and privacy into all our maintenance and improvement
@@ -583,6 +583,8 @@ Of specific interest are:
 <https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md>
 
 <https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/tech-strategy.md>
+
+This solicitation is for the support of the new modern eligibility platform. This platform currently contains MAGI Medicaid eligibility determination as well as a person search application. The eligibility product roadmap linked above within the how we work documentation contains plans to move all public assistance programs into one modern eligibility platform using a modular iterative approach. This support contract is for the express purpose of supporting this new modern integrated eligibility platform and all its components. The roadmap as well as the scope in section 3.01 list out those components. 
 
 # Section 3. SCOPE OF WORK AND DELIVERABLES
 
@@ -629,8 +631,7 @@ will serve to achieve the following goals:
 -   Efficient business operations for both the technical support teams
     as well as the DPA business units
 
-    -   Maintaining current server and technology stack software
-        versions
+    -   Maintaining current server and technology stack software versions (this includes a development, training/user testing, and production environment. Each of these    environments includes multiple virtual servers running windows 2008R2)
 
         -   Eligibility system is hosted on a mix of
 
@@ -640,7 +641,7 @@ will serve to achieve the following goals:
                     Server 2016. This work will be a responsibility of
                     the vendor under this contract
 
-            -   Azure platform as a service
+            -   Azure platform as a service (the person search application is hosted in Azure, with a development, test, and production instance) 
 
             -   Azure infrastructure as a service
 
@@ -923,7 +924,7 @@ following deliverables:
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Support Management Plan</strong></td>
+<td>Support Management Plan</td>
 <td><p>Comprehensive plan that aligns with internal DHSS and DPA processes:</p>
 <ul>
 <li><p>Basic methodology to ensure contract success</p></li>
@@ -935,7 +936,7 @@ following deliverables:
 <li><p>Communication plan to include both technical, business, and public facing communication regarding system changes, planned outages, unplanned outages, or general improvements</p></li>
 <li><p>Training plan outlining information to be shared with users, methods for delivering training, document scope and format</p></li>
 </ul></td>
-<td><strong>45 days after full execution of contract and as needed for the life of the contract</strong></td>
+<td>45 days after full execution of contract and as needed for the life of the contract</td>
 </tr>
 <tr class="even">
 <td>User Center Design Plan</td>
@@ -944,7 +945,7 @@ following deliverables:
 <li><p>Method for producing discovery synthesis documentation as needed</p></li>
 <li><p>Plan should align with <a href="https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md">https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md</a></p></li>
 </ul></td>
-<td><strong>45 days after full execution of contract and as needed for the life of the contract</strong></td>
+<td>45 days after full execution of contract and as needed for the life of the contract</td>
 </tr>
 <tr class="odd">
 <td>Support Activities Report</td>
@@ -984,7 +985,7 @@ following deliverables:
 <tr class="even">
 <td>Design Deliverables</td>
 <td>Any mockups and/or design files if applicable, or design changes reflected in the Development Prototype. A copy of any document deliverables shall be submitted to the Alaska technical team.</td>
-<td><strong>End of every applicable sprint</strong></td>
+<td>End of every applicable sprint</td>
 </tr>
 <tr class="odd">
 <td>Disaster Recovery and Business Continuity (DR/BC) Testing Report</td>
@@ -996,7 +997,7 @@ following deliverables:
 <li><p>Application and database failures</p></li>
 <li><p>Areas where the plans should be improved or corrected</p></li>
 </ul></td>
-<td><strong>1 year after contract execution and annually thereafter</strong></td>
+<td>1 year after contract execution and annually thereafter</td>
 </tr>
 <tr class="even">
 <td>Capacity planning report</td>
@@ -1004,10 +1005,28 @@ following deliverables:
 <ul>
 <li><p>This report will be based on interviews with key staff made available by DHSS/DPA, as well as technical information on capacity</p></li>
 </ul></td>
-<td><strong>6 months after contract execution and every 6 months thereafter</strong></td>
+<td>6 months after contract execution and every 6 months thereafter</td>
+</tr>
+<tr class="odd">
+<td>Transition Plan</td>
+<td><p>A document that will identify all activities necessary for an orderly transition to the State of Alaska and /or a new contractor. All deliverables, products, licenses, designs, data, documentation, tests, user research notes, source code, configuration settings and files, materials developed throughout this contract, images, logs, current procedures, and supplies will be the property of the State of Alaska and in the public domain. The plan must identify the approach to providing this data to the state in a format that is non-encrypted and is not proprietary. The plan will include, but not be limited to, the following content:</p>
+<ul>
+<li><p>Description of the strategy and approach to turnover, with inclusion of a turnover timeline;</p></li>
+<li><p>Delineate activities that will be transitioned to DPA and the DHSS IT staff to include the required resources and level of support;</p></li>
+<li><p>Identification of risks to service disruption and corresponding mitigation strategies;</p></li>
+<li><p>Description of all activities necessary to support an orderly turnover;</p></li>
+<li><p>Identification of organizational entities responsible for, or involved in turnover activities, to include roles and responsibilities;</p></li>
+<li><p>Explanation of how turnover activities will be planned and conducted;</p></li>
+<li><p>Description of the approach to providing access to staff and information;</p></li>
+<li><p>A schedule of all activities with time frames to ensure that all components of the system are included in the transition;</p></li>
+<li><p>Description of the approach to ensuring operational quality during turnover; and</p></li>
+<li><p>Identification of any necessary changes to operations and processes or procedures.</p></li>
+</ul></td>
+<td>3 months prior to end of contract</td>
 </tr>
 </tbody>
 </table>
+
 
 
 
@@ -1464,6 +1483,8 @@ contract, please provide the following:
     responsible for
 
 -   Resume and specifically related work experience.
+
+Information about similar experience and qualifications is included as part of your page limitation.
 
 ## Sec. 4.08 Verbal Presentation
 
