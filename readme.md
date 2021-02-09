@@ -2,11 +2,9 @@
 
 ## Instructions
 
-This repository will be used to gather feedback on an expected upcoming RFP release from the Alaska Department of Health and Social Services (DHSS) Division of Public Assistance (DPA). We ask that you review the documents here, and provide feedback by opening an issue within this repository (https://github.com/AlaskaDHSS/RFP-ARIES-Support/issues) 
+The documents in this repository are posted in Alaska's Vendor Self Service (VSS) portal under RFP # 210000029. The documents in VSS should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by February 22, 2021 at 2:00 pm Alaska prevailing time.
 
-All questions must be received by **February 3rd, 2021** in the form of an issue posted to this repository. 
-
-When we are ready to release the official RFP it will be posted here in this repository and will also be listed in the official State of Alaska Vendor Self Service Portal https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService
+Offers are due by March 4, 2021, at 2:00 pm Alaska prevailing time.
 
 ## Important note about referenced documentation
 
@@ -46,7 +44,7 @@ _Important note - Questions about this RFP should be [posted here](https://githu
 
 ### How to respond
 
-We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/ARIES_SUPPORT_RFP.md#proposal-format-and-content-1) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
+We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/ARIES_SUPPORT_RFP.md#sec-401-proposal-format-and-content) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
 
 ### Budget
 
@@ -54,7 +52,7 @@ We have a budget of $7,200,000.00 dollars for the initial contract period outlin
 
 ### Contract Term
 
-This initial contract will last two years from the date of award - approximately Q1 2021 - Q4 2023. There are optional renewal periods outlined after the initial contract period. 
+This initial contract will last two years from the date of award - 6/15/2021 - 6/14/2023. There are optional renewal periods outlined after the initial contract period. 
 
 ## Contents
 
