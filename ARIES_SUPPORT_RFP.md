@@ -2131,7 +2131,7 @@ The Technical Documentation Example can be found in this repository at [Attachme
 
 ## Sec. 8.09 Attachment 09 IT Reference A - DHSS IT Requirements Agile Acquisition
 
-The DHSS IT Requirements Agile Acquisition documentation can be found in this repository at [Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20REFERENCE%20A%20-%20DHSS%20IT%20REQUIREMENTS%20AGILE%20ACQUISITION.pdf)
+The DHSS IT Requirements Agile Acquisition documentation can be found in this repository at [Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20Reference%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md)
 
 ## Sec. 8.10 Attachment 10 - IT Reference D - DHSS Information Technology Standards
 
