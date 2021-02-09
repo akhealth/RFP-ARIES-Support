@@ -215,17 +215,17 @@ Appendices)](#sec-805-attachment-5----template-standard-agreement-form-with-appe
 
 [Sec. 8.06 Attachment 6 -- Federal Requirements](#sec-806-attachment-6----federal-requirements)
 
-[Sec. 8.07 Attachment 7 -- Performance Based Quality Assurance Plan (QAP)](#sec-807-attachment-7----Performance-Based-Quality-Assurance-Plan-(QAP))
+[Sec. 8.07 Attachment 7 -- Performance Based Quality Assurance Plan (QAP)](#sec-807-attachment-7----performance-based-quality-assurance-plan-qap)
 
 [Sec. 8.08 Attachment 8 -- Technical Documentation Example](#sec-808-attachment-8----technical-documentation-example)
 
-[Sec. 8.09 Attachment 9 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](#attachment-8-quality-assurance-plan)
+[Sec. 8.09 Attachment 9 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](#sec-809-attachment-09-it-reference-a---dhss-it-requirements-agile-acquisition)
 
-[Sec. 8.10 Attachment 10 - IT Reference D - DHSS Information Technology Standards](#attachment-8-quality-assurance-plan)
+[Sec. 8.10 Attachment 10 - IT Reference D - DHSS Information Technology Standards](#sec-810-attachment-10---it-reference-d---dhss-information-technology-standards)
 
-[Sec. 8.11 Attachment 11 IT Reference F - Data Destruction Information and References](#attachment-8-quality-assurance-plan)
+[Sec. 8.11 Attachment 11 IT Reference F - Data Destruction Information and References](#sec-811-attachment-11-it-reference-f---data-destruction-information-and-references)
 
-[Sec. 8.12 Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](#attachment-8-quality-assurance-plan)
+[Sec. 8.12 Attachment 12 IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set](#sec-812-attachment-12-it-reference-h---dhss-sample-security-authorization-package---moderate-control-set)
 
 
 # Section 1 Introduction & Instructions
