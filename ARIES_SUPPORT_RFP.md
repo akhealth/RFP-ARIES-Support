@@ -5,9 +5,9 @@
 
 **Alaska Resources for Integrated Eligibility Services (ARIES) System Support**
 
-RFP TBD
+RFP 210000029
 
-Issued TBD
+Issued 2/11/2021
 
 The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to support the ongoing maintenance of the public assistance eligibility system. This system currently processes eligibility for MAGI Medicaid but is growing to support all existing public assistance programs.
 
@@ -23,7 +23,6 @@ Division of Public Assistance
 Kellie Julian<br>
 Procurement Officer<br>
 Kellie.Julian@alaska.gov<br>
-THIS IS A DRAFT
 
 **TABLE OF CONTENTS**
 
@@ -271,7 +270,7 @@ non-responsive.
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
 Proposals must be received no later than 2:00 pm prevailing Alaska Time
-on TBD.
+on 3/4/2021.
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -312,7 +311,7 @@ could not be made.
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this RFP's GitHub repository no later than 12 noon on TBD, to
+within this RFP's GitHub repository no later than 2pm AKST on 2/22/2021, to
 allow the State sufficient time to respond. All questions and comments
 will be publicly available. Please subscribe to the repository if your
 firm would like updates about changes and comments. Questions or
@@ -499,20 +498,19 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. All
 times are Alaska Standard Time (AKST).
 
--   Issue RFP on TBD
+-   Issue RFP on 2/11/2021
 
--   Deadline for receipt of questions on + 10 days
+-   Deadline for receipt of questions on 2/22/2021 by 2pm AKST
 
--   Deadline for receipt of proposals on + 21 days
+-   Deadline for receipt of proposals on 3/4/2021 by 2pm AKST
 
--   Proposal Evaluation Committee complete evaluation by + 21 days
+-   Proposal Evaluation Committee complete evaluation by 3/25/2021
 
--   State of Alaska issues Notice of Intent to Award a Contract by + 1
-    day of date of PEC completion
+-   State of Alaska issues Notice of Intent to Award a Contract by 3/26/2021
 
--   State of Alaska issues contract award by + 10 day protest period
+-   State of Alaska issues contract award by 4/5/2021
 
--   Contract begins TBD
+-   Anticipated contract start date on 6/15/2021
 
 This RFP does not, by itself, obligate the State. The State\'s
 obligation will commence when the contract is approved by the
@@ -903,10 +901,10 @@ The Technical Lead must have a minimum of three (3) years’ experience in the l
 
 ## Sec. 3.05 Contract Term and Work Schedule
 
-The term of this contract will be from TBD -- TBD, with three (3)
+The term of this contract will be from 6/15/2021 to 6/14/2023, with three (3)
 available annual renewal options, to be exercised at the sole discretion
-of the state. The full term of the contract, if the renewal is executed,
-will run from TBD --TBD.
+of the state. The full term of the contract, if every renewal is executed,
+will run from 6/15/2021 to 6/14/2026.
 
 ## Sec. 3.06 Deliverables
 
