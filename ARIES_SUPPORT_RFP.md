@@ -213,12 +213,11 @@ Deliverables](#sec-316-inspection--modification---reimbursement-for-unacceptable
 [Sec. 8.05 Attachment 5 -- TEMPLATE Standard Agreement Form (with
 Appendices)](#sec-805-attachment-5----template-standard-agreement-form-with-appendices)
 
-[Sec. 8.06 Attachment 6 -- DHSS Sample Security Authorization Package --
-Moderate Control Set](#sec-806-attachment-6----dhss-sample-security-authorization-package----moderate-control-set)
+[Sec. 8.06 Attachment 6 -- Federal Requirements](#sec-806-attachment-6----federal-requirements)
 
-[Sec. 8.07 Attachment 7 -- Technical Documentation Example](#sec-807-attachment-7----technical-documentation-example)
+[Sec. 8.07 Attachment 7 -- Performance Based Quality Assurance Plan (QAP)](#sec-807-attachment-7----Performance-Based-Quality-Assurance-Plan-(QAP))
 
-[Sec. 8.08 Attachment 8 -- Quality Assurance Plan](#sec-808-attachment-8----quality-assurance-plan)
+[Sec. 8.08 Attachment 8 -- Technical Documentation Example](#sec-808-attachment-8----technical-documentation-example)
 
 [Sec. 8.09 Attachment 9 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](#attachment-8-quality-assurance-plan)
 
@@ -2118,19 +2117,19 @@ The Certification Regarding Debarment can be found in this repository at [Attach
 
 The TEMPLATE Standard Agreement Form (with Appendices) can be found in this repository at [Attachment 5 - TEMPLATE Standard Agreement Form (with Appendices)](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2005%20TEMPLATE%20Standard%20Agreement%20Form%20(with%20Appendices).pdf)
 
-## Sec. 8.06 Attachment 6 -- DHSS Sample Security Authorization Package -- Moderate Control Set
+## Sec. 8.06 Attachment 6 -- Federal Requirements
 
 The Federal Requirements can be found in this repository at [Attachment 6 - Federal Requirements](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2006%20Federal%20Requirements.pdf)
 
-## Sec. 8.07 Attachment 7 -- Technical Documentation Example
+## Sec. 8.07 Attachment 7 -- Performance Based Quality Assurance Plan (QAP)
 
 The Quality Assurance Plan can be found in this repository at [Attachment 7 - QAP](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2007%20QAP.md)
 
-## Sec. 8.08 Attachment 8 -- Quality Assurance Plan
+## Sec. 8.08 Attachment 8 -- Technical Documentation Example
 
 The Technical Documentation Example can be found in this repository at [Attachment 8 - Technical Documentation Example](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2008-technical_documentation_example.PNG)
 
-## Sec. 8.09 Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition
+## Sec. 8.09 Attachment 09 IT Reference A - DHSS IT Requirements Agile Acquisition
 
 The DHSS IT Requirements Agile Acquisition documentation can be found in this repository at [Attachment 09 IT REFERENCE A - DHSS IT Requirements Agile Acquisition](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20REFERENCE%20A%20-%20DHSS%20IT%20REQUIREMENTS%20AGILE%20ACQUISITION.pdf)
 
