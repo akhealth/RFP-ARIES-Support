@@ -7,7 +7,7 @@
 
 RFP 210000029
 
-Issued 2/11/2021
+Issued 2/12/2021
 
 The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to support the ongoing maintenance of the public assistance eligibility system. This system currently processes eligibility for MAGI Medicaid but is growing to support all existing public assistance programs.
 
@@ -269,8 +269,8 @@ non-responsive.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than 2:00 pm prevailing Alaska Time
-on 3/4/2021.
+Proposals must be received no later than 4:00 pm prevailing Alaska Time
+on 3/5/2021.
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -311,7 +311,7 @@ could not be made.
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this RFP's GitHub repository no later than 2pm AKST on 2/22/2021, to
+within this RFP's GitHub repository no later than 4pm AKST on 2/23/2021, to
 allow the State sufficient time to respond. All questions and comments
 will be publicly available. Please subscribe to the repository if your
 firm would like updates about changes and comments. Questions or
@@ -498,17 +498,17 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. All
 times are Alaska Standard Time (AKST).
 
--   Issue RFP on 2/11/2021
+-   Issue RFP on 2/12/2021
 
--   Deadline for receipt of questions on 2/22/2021 by 2pm AKST
+-   Deadline for receipt of questions on 2/23/2021 by 4pm AKST
 
--   Deadline for receipt of proposals on 3/4/2021 by 2pm AKST
+-   Deadline for receipt of proposals on 3/5/2021 by 4pm AKST
 
--   Proposal Evaluation Committee complete evaluation by 3/25/2021
+-   Proposal Evaluation Committee complete evaluation by 3/26/2021
 
--   State of Alaska issues Notice of Intent to Award a Contract by 3/26/2021
+-   State of Alaska issues Notice of Intent to Award a Contract by 3/29/2021
 
--   State of Alaska issues contract award by 4/5/2021
+-   State of Alaska issues contract award by 4/8/2021
 
 -   Anticipated contract start date on 6/15/2021
 
