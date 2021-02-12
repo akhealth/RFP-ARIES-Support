@@ -609,6 +609,15 @@ will serve to achieve the following goals:
             -   Moderate -- 15 days
 
             -   Low -- 30 days
+> Critical means that a threat event could be expected to have multiple severe or catastrophic adverse effects on organizational operations, organizational assets, individuals, > other organizations, or
+> the Nation.
+
+> High risk means that a threat event could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, individuals, other > organizations, or the Nation.
+
+> Moderate risk means that a threat event could be expected to have a serious adverse effect on organizational operations, organizational assets, individuals, other > organizations, or the Nation.
+
+> Low risk means that a threat event could be expected to have a limited adverse effect on organizational operations, organizational assets, individuals, other organizations, 
+> or the Nation.
 
     -   Timely resolution and/or mitigation of security assessment
         findings or annual external penetration testing report findings
