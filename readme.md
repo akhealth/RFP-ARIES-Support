@@ -2,9 +2,9 @@
 
 ## Instructions
 
-The documents in this repository are posted in Alaska's Vendor Self Service (VSS) portal under RFP # 210000029. The documents in VSS should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by February 23, 2021 at 4:00 pm Alaska prevailing time.
+The documents in this repository are posted in Alaska's Vendor Self Service (VSS) portal under RFP # 210000029. The documents in VSS should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by March 1, 2021 at 4:00 pm Alaska prevailing time.
 
-Offers are due by March 5, 2021, at 4:00 pm Alaska prevailing time.
+Offers are due by March 12, 2021, at 4:00 pm Alaska prevailing time.
 
 ## Important note about referenced documentation
 
@@ -52,7 +52,7 @@ We have a budget of $7,200,000.00 dollars for the initial contract period outlin
 
 ### Contract Term
 
-This initial contract will last two years from the date of award - 6/15/2021 - 6/14/2023. There are optional renewal periods outlined after the initial contract period. 
+This initial contract will last two years from the anticipated contract start date - 6/15/2021 - 6/14/2023. There are optional renewal periods outlined after the initial contract period. 
 
 ## Contents
 
