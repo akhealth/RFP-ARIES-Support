@@ -59,7 +59,7 @@ This initial contract will last two years from the date of award - approximately
 ## Contents
 
 1. [Request for Proposals](ARIES_SUPPORT_RFP.md)
-2. [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.pdf)
+2. [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.xlsx)
 3. [Attachment 2 - RFP Checklist](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2002%20RFP%20Checklist.pdf)
 4. [Attachment 3 - Proposal Evaluation Form](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2003%20Proposal%20Evaluation%20Form.pdf)
 5. [Attachment 4 - Certification Regarding Debarment](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2004%20Certification%20Regarding%20Debarment.pdf)
