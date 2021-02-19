@@ -757,11 +757,11 @@ Daily operations will be managed by the contractor's project manager but
 coordinated to and communicated with the Alaska technical support team.
 They may include:
 
-Daily standup via video
+- Daily standup via video
 
-Chat communications via MS Teams
+- Chat communications via MS Teams
 
-Manage and update user stories + workflow tasks in shared project
+- Manage and update user stories + workflow tasks in shared project
 management platform (TFS or AzureDevOps)
 
 ## Sec. 3.03 Transition Requirements
