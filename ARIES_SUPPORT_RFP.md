@@ -101,11 +101,7 @@ Deliverables](#sec-316-inspection--modification---reimbursement-for-unacceptable
 
 [Sec. 3.18 Nondisclosure and Confidentiality](#sec-318-nondisclosure-and-confidentiality)
 
-[Sec. 3.19 Indemnification](#sec-319-indemnification)
-
-[Sec. 3.20 Insurance Requirements](#sec-320-insurance-requirements)
-
-[Sec. 3.21 Termination For Default](#sec-321-termination-for-default)
+[Sec. 3.19 Termination For Default](#sec-319-termination-for-default)
 
 ### Section 4.	PROPOSAL FORMAT AND CONTENT
 
@@ -1324,45 +1320,7 @@ which is disclosed by a party pursuant to subpoena or other legal
 process and which as a result becomes lawfully obtainable by the general
 public.
 
-## Sec. 3.19 Indemnification
-
-The contractor shall indemnify, hold harmless, and defend the
-contracting agency from and against any claim of, or liability for
-error, omission or negligent act of the contractor under this agreement.
-The contractor shall not be required to indemnify the contracting agency
-for a claim of, or liability for, the independent negligence of the
-contracting agency. If there is a claim of, or liability for, the joint
-negligent error or omission of the contractor and the independent
-negligence of the contracting agency, the indemnification and hold
-harmless obligation shall be apportioned on a comparative fault basis.
-"Contractor" and "contracting agency", as used within this and the
-following article, include the employees, agents and other contractors
-who are directly responsible, respectively, to each. The term
-"independent negligence" is negligence other than in the contracting
-agency's selection, administration, monitoring, or controlling of the
-contractor and in approving or accepting the contractor's work.
-
-## Sec. 3.20 Insurance Requirements
-
-Without limiting contractor\'s indemnification, it is agreed that
-contractor shall purchase at its own expense and maintain in force at
-all times during the performance of services under this agreement the
-policies of insurance identified in Appendix B of the Standard Agreement
-Template (Attached in Section 8). Where specific limits are shown, it is
-understood that they shall be the minimum acceptable limits. If the
-contractor\'s policy contains higher limits, the state shall be entitled
-to coverage to the extent of such higher limits.
-
-Certificates of Insurance must be furnished to the procurement officer
-prior to beginning work and must provide for a notice of cancellation,
-non-renewal, or material change of conditions in accordance with policy
-provisions. Failure to furnish satisfactory evidence of insurance or
-lapse of the policy is a material breach of this contract and shall be
-grounds for termination of the contractor\'s services. All insurance
-policies shall comply with and be issued by insurers licensed to
-transact the business of insurance under AS 21.
-
-## Sec. 3.21 Termination For Default
+## Sec. 3.19 Termination For Default
 
 The Project Director, by written notice, may terminate this contract, in
 whole or in part, when it is in the best interest of the State. In the
@@ -2116,7 +2074,7 @@ the United States via contract amendment.
 
 ## Sec. 8.01 Attachment 1 -- Cost Proposal
 
-The cost proposal can be found in this repository at [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.pdf)
+The cost proposal can be found in this repository at [Attachment 1 - Cost Proposal](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2001%20Cost%20Proposal.xlsx)
 ## Sec. 8.02 Attachment 2 - RFP Checklist
 
 The RFP Checklist can be found in this repository at [Attachment 2 - RFP Checklist](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2002%20RFP%20Checklist.pdf)
