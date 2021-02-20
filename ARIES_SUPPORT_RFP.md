@@ -5,9 +5,9 @@
 
 **Alaska Resources for Integrated Eligibility Services (ARIES) System Support**
 
-RFP TBD
+RFP 210000029
 
-Issued TBD
+Issued 2/19/2021
 
 The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to support the ongoing maintenance of the public assistance eligibility system. This system currently processes eligibility for MAGI Medicaid but is growing to support all existing public assistance programs.
 
@@ -23,7 +23,6 @@ Division of Public Assistance
 Kellie Julian<br>
 Procurement Officer<br>
 Kellie.Julian@alaska.gov<br>
-THIS IS A DRAFT
 
 **TABLE OF CONTENTS**
 
@@ -122,7 +121,7 @@ Deliverables](#sec-316-inspection--modification---reimbursement-for-unacceptable
 
 [Sec. 4.06 Staffing Approach](#sec-406-staffing-approach)
 
-[Sec. 4.07 Similar Experience and Qualifications](#sec-407-similar-experience-and-qualifications)
+[Sec. 4.07 Experience and Qualifications](#sec-407-experience-and-qualifications)
 
 [Sec. 4.08 Verbal Presentation](#sec-408-verbal-presentation)
 
@@ -140,7 +139,7 @@ Deliverables](#sec-316-inspection--modification---reimbursement-for-unacceptable
 
 [Sec. 5.04 Staffing Approach (10%)](#sec-504-staffing-approach-10)
 
-[Sec. 5.05 Similar Experience and Qualifications (10%)](#sec-505-similar-experience-and-qualifications-10)
+[Sec. 5.05 Experience and Qualifications (10%)](#sec-505-experience-and-qualifications-10)
 
 [Sec. 5.06 Verbal Presentation (20%)](#sec-506-verbal-presentation-20)
 
@@ -232,7 +231,7 @@ Appendices)](#sec-805-attachment-5----template-standard-agreement-form-with-appe
 
 ## Sec. 1.01 Purpose of the RFP
 
-Alaska DHSS DPA is searching for a partner to support the ongoing
+The Alaska Department of Health and Social Services (DHSS), Division of Public Assistance (DPA) is searching for a partner to support the ongoing
 maintenance of the public assistance eligibility system. This system
 currently processes eligibility for MAGI Medicaid but is growing to
 support all existing public assistance programs. This system has over
@@ -246,7 +245,7 @@ staff to ensure the eligibility system is:
 
 -   Meeting applicable security requirements
 
--   Compliant with Federal and state regulations
+-   Compliant with federal and state regulations
 
 -   Is available for staff use
 
@@ -270,8 +269,8 @@ non-responsive.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than 2:00 pm prevailing Alaska Time
-on TBD.
+Proposals must be received no later than 4:00 pm prevailing Alaska Time
+on 3/12/2021.
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -312,7 +311,7 @@ could not be made.
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this RFP's GitHub repository no later than 12 noon on TBD, to
+within this RFP's GitHub repository no later than 4pm AKST on 3/1/2021, to
 allow the State sufficient time to respond. All questions and comments
 will be publicly available. Please subscribe to the repository if your
 firm would like updates about changes and comments. Questions or
@@ -341,7 +340,7 @@ email, sent to the following address:
 
 The email submission must contain the RFP number in the subject line. In
 the body of the email, please indicate the Procurement Officer's name,
-the Offeror's name, the number of attachments, and the names of the
+the offeror's name, the number of attachments, and the names of the
 attachments being submitted.
 
 When submitting a proposal via email, the technical proposal and cost
@@ -354,6 +353,8 @@ exceeds this size, the proposal must be sent in multiple emails that are
 each less than 20 megabytes; each email must comply with the
 requirements above. Please also include an indication of multiple email
 submissions (1 of 2, 2 of 2, etc.).
+
+Please note that email transmission is not instantaneous. Similar to sending a hard copy proposal, if you are emailing your proposal, the state recommends sending it enough ahead of time to ensure the email is delivered by the deadline for receipt of proposals. 
 
 It is the offeror's responsibility to ensure that the Procurement
 Officer has received the proposal in full, prior to the deadline. The
@@ -370,7 +371,7 @@ evaluation.
 
 Paper Submission
 
-If submitted a proposal by mail, Offerors must submit one hard copy of
+If submitted a proposal by mail, offerors must submit one hard copy of
 their proposal, to the procurement officer, in a sealed package. The
 cost proposal included with the package must be sealed separately from
 the rest of the proposal and must be clearly identified.
@@ -499,20 +500,19 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. All
 times are Alaska Standard Time (AKST).
 
--   Issue RFP on TBD
+-   Issue RFP on 2/19/2021
 
--   Deadline for receipt of questions on + 10 days
+-   Deadline for receipt of questions on 3/1/2021 by 4pm AKST
 
--   Deadline for receipt of proposals on + 21 days
+-   Deadline for receipt of proposals on 3/12/2021 by 4pm AKST
 
--   Proposal Evaluation Committee complete evaluation by + 21 days
+-   Proposal Evaluation Committee complete evaluation by 4/2/2021
 
--   State of Alaska issues Notice of Intent to Award a Contract by + 1
-    day of date of PEC completion
+-   State of Alaska issues Notice of Intent to Award a Contract by 4/6/2021
 
--   State of Alaska issues contract award by + 10 day protest period
+-   State of Alaska issues contract award by 4/14/2021
 
--   Contract begins TBD
+-   Anticipated contract start date on 6/15/2021
 
 This RFP does not, by itself, obligate the State. The State\'s
 obligation will commence when the contract is approved by the
@@ -552,7 +552,7 @@ Assistance, Alaska Temporary Assistance and General Relief programs.
 
 As a part of this designation, the DHSS Division of Public Assistance
 (DPA) is charged with determining eligibility for each of the programs
-based on State and Federal regulation.
+based on state and federal regulation.
 
 To perform this work, DPA uses several technical systems. These include
 a legacy mainframe system, as well as a modern MAGI Medicaid
@@ -566,7 +566,7 @@ The MAGI Medicaid eligibility system is based on an IBM WebSphere software platf
 
 The current Azure infrastructure, in limited use, is managed by DHSS. 
 
-The system communicates with multiple Federal and state partners to transfer information and documentation.
+The system communicates with multiple federal and state partners to transfer information and documentation.
 
 
 DPA utilizes modern software delivery methods. We are user centric and
@@ -589,11 +589,10 @@ This solicitation is for the support of the new modern eligibility platform. Thi
 
 ## Sec. 3.01 Scope of Work
 
-The Alaska Department of Health and Social Services, Division of Public
-Assistance (DPA) is soliciting a vendor to provide ongoing support that
+DHSS, DPA is soliciting for a contractor to provide ongoing support that
 will serve to achieve the following goals:
 
--   Stable Security posture. This will be achieved through
+-   Stable security posture. This will be achieved through
 
     -   Consistent scanning of new software, as well as current
         production software for known vulnerabilities using approved
@@ -649,7 +648,7 @@ will serve to achieve the following goals:
 
                 -   We plan to move the entire infrastructure to Windows
                     Server 2016. This work will be a responsibility of
-                    the vendor under this contract
+                    the contractor under this contract
 
             -   Azure platform as a service (the person search application is hosted in Azure, with a development, test, and production instance) 
 
@@ -737,7 +736,7 @@ reporting in accordance with Program Management methodologies, and
 staffing requirements. Sprint plans will be developed collaboratively
 with the Alaska technical support team.
 
-We Manage our projects using a mix of traditionally agile processes.
+We manage our projects using a mix of traditionally agile processes.
 
 These include sprint ceremonies:
 
@@ -757,7 +756,7 @@ processes in our GitHub repo at [How We
 Work](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md).
 
 
-A successful vendor will have experience working with clients using
+A successful contractor will have experience working with clients using
 modern software development approaches. These approaches must include
 cross-functional teams that use human-centered design, build with modern
 technology stacks, and use an iterative, agile approach to continuously
@@ -769,18 +768,18 @@ Daily operations will be managed by the contractor's project manager but
 coordinated to and communicated with the Alaska technical support team.
 They may include:
 
-Daily standup via video
+- Daily standup via video
 
-Chat communications via MS Teams
+- Chat communications via MS Teams
 
-Manage and update user stories + workflow tasks in shared project
+- Manage and update user stories + workflow tasks in shared project
 management platform (TFS or AzureDevOps)
 
 ## Sec. 3.03 Transition Requirements
 
 **TRANSITION ACTIVITIES**
 
-The Contractor shall:
+The contractor shall:
 
 a\) Ensure and agree that all deliverables, products, licenses, designs,
 data, documentation, tests, user research notes, source code,
@@ -789,7 +788,7 @@ this contract will be the property of the State of Alaska and in the
 public domain.
 
 b\) During the transition to the State of Alaska and/or a new
-contractor, the Contractor shall perform all necessary transition
+contractor, the contractor shall perform all necessary transition
 activities, including, but not limited to, continued full services to
 DPA; participation, at discretion of Alaska technical team, in meetings
 with the State of Alaska or new contractor to effect a smooth transition
@@ -800,13 +799,13 @@ period, appropriate close-out of outstanding technical and related work.
 c\) Deliver a final report that shall include list of sprint tasks
 completed, documentation, and link to code repository. Should the
 Contract be terminated prior to the end of the period of performance,
-the Contractor shall transfer all project materials to the procurement
+the contractor shall transfer all project materials to the procurement
 officer within two weeks of the procurement officer's request.
 
 ## Sec. 3.04 Personnel
 
-Alaska envisions the need for the following skillsets as part of the
-Contractors team:
+DHSS envisions the need for the following skillsets as part of the
+contractor team:
 
 -   Project manager
 
@@ -838,7 +837,7 @@ Contractors team:
 
 **DESIRED SKILLS AND KNOWLEDGE**
 
-The Contractor team shall have knowledge and skills in the following
+The contractor team shall have knowledge and skills in the following
 areas:
 
 Current Eligibility System Technology: IBM WebSphere, IBM Operational
@@ -868,16 +867,16 @@ triage, staff management, effort estimation
 
 The following requirements related to personnel must be met:
 
-a\) The Contractor shall assign to perform this contract those persons
+a\) The contractor shall assign to perform this contract those persons
 whose résumés are submitted with its quotation and who are identified in
-the Contractor's quotation as Key Personnel.
+the contractor's quotation as Key Personnel.
 
 b\) At a minimum, a Project Manager, Eligibility SME and Technical Lead
 must be identified and designated as Key Personnel.
 
 *The Project Manager* will be a direct liaison to the Alaska technical
 team. The Project Manager is responsible for the supervision and
-management of the Contractor's personnel, technical assistance, and
+management of the contractor's personnel, technical assistance, and
 interface. Desired skills/experience for the Project Manager include:
 
 -   Experience in technical leadership
@@ -897,27 +896,27 @@ interface. Desired skills/experience for the Project Manager include:
 
 -   Proven knowledge of industry standards
 
-The Project Manager must have a minimum of three (3) years’ experience in the last five (5) years leading a project for a Medicaid enterprise system.
+The Project Manager should have a minimum of three (3) years’ experience in the last five (5) years leading a project for a Medicaid enterprise system.
 
 The *Eligibility SME* should have specific experience with eligibility
 system operation, design, and maintenance. Specific operations
 background in an eligibility setting is highly valued.
 
-The Eligibility SME must have a minimum of three (3) years’ experience in the last five (5) years working in Medicaid eligibility, policy, business analysis, design, maintenance, or operation.
+The Eligibility SME should have a minimum of three (3) years’ experience in the last five (5) years working in Medicaid eligibility, policy, business analysis, design, maintenance, or operation.
 
-The *Technical Lead* must have a full understanding of the technical
+The *Technical Lead* should have a full understanding of the technical
 approach discussed in the proposal interview and is responsible for ensuring that the contractor follows the proposed approach.
 
-The Technical Lead must have a minimum of three (3) years’ experience in the last five (5) years in a technical leadership role.
+The Technical Lead should have a minimum of three (3) years’ experience in the last five (5) years in a technical leadership role.
 
 
 
 ## Sec. 3.05 Contract Term and Work Schedule
 
-The term of this contract will be from TBD -- TBD, with three (3)
+The term of this contract will be from 6/15/2021 to 6/14/2023, with three (3)
 available annual renewal options, to be exercised at the sole discretion
-of the state. The full term of the contract, if the renewal is executed,
-will run from TBD --TBD.
+of the state. The full term of the contract, if every renewal is executed,
+will run from 6/15/2021 to 6/14/2026.
 
 ## Sec. 3.06 Deliverables
 
@@ -1061,7 +1060,7 @@ laid out in the [quality assurance plan](https://github.com/AlaskaDHSS/RFP-ARIES
 
 **SYSTEM DOCUMENTATION**
 
-The Contractor shall consult with the Alaska technical team to determine
+The contractor shall consult with the Alaska technical team to determine
 what is appropriate, effective, and essential for system documentation.
 The State requires, at a minimum, that the contractor will generate
 comprehensive and complete documentation, both within the code itself,
@@ -1072,7 +1071,7 @@ create new user stories based on each sprint.
 
 We typically house documentation in TFS or AzureDevOps either in the
 built-in wiki, or as part of a repository. This allows the documents to
-be versioned and controlled. We expect that the selected vendor will
+be versioned and controlled. DHSS, DPA expects that the selected contractor will
 create and update documentation using these standards where appropriate.
 
 **QUALITY ASSURANCE**
@@ -1127,7 +1126,7 @@ methods. There may be some occasions where an on-site visit is required,
 but those will be the exception rather than the rule.
 
 In the event where an on-site presence is requested, the following State
-Approved Travel Guidelines apply
+Approved Travel Guidelines apply.
 
 The State will cover costs associated with travel per the criteria
 listed below. Expenses above these criteria must be approved in advance
@@ -1147,7 +1146,7 @@ by the Project Director.
     less car (unless approved in advance) and the rental period is to
     cover the business travel period only.
 
--   **Ground Transportation**: between the Contractor's home and the
+-   **Ground Transportation**: between the contractor's home and the
     airport, and the destination airport and hotel; via airport shuttle,
     courtesy van, or taxi service.
 
@@ -1157,8 +1156,8 @@ by the Project Director.
 **Note**: Costs of parking violations will not be reimbursed
 
 To facilitate this method of delivery and partnership it is critical
-that a successful vendor align with the State of Alaska time zone. The
-vendor's team must ensure their agile ceremonies are conducted at times
+that a successful contractor align with the State of Alaska time zone. The
+contractor's team must ensure their agile ceremonies are conducted at times
 that are consistent with the State of Alaska's normal business hours
 (8:00AM--5:00PM Alaska Standard Time). As a rule, staff should be
 available during these times.
@@ -1371,6 +1370,8 @@ absence of a breach of contract by the contractor, the State is liable
 only for payment in accordance with the payment provisions of this
 contract for services rendered before the effective date of termination.
 
+This clause does not restrict the state's termination rights under the contract provisions of Appendix A, attached in SECTION 8. ATTACHMENTS.
+
 #  Section 4. PROPOSAL FORMAT AND CONTENT
 
 ## Sec. 4.01 Proposal Format and Content
@@ -1408,13 +1409,14 @@ Succinctly describe level of knowledge, technical expertise and overall
 understanding of the responsibilities as set forth in Section 3: Scope
 of Work & Deliverables. This is also an opportunity to discuss, either
 in the written proposal or during the verbal presentation, any technical
-risks or opportunities. Technical Understanding and Approach is included
-in the page limit. This section should include your proposed plans to adhere to the technical requirements and standards listed out in attachment [9](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20Reference%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md) and [10](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf)
+risks or opportunities. This section should include your proposed plans to adhere to the technical requirements and standards listed out in attachment [9](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2009%20IT%20Reference%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md) and [10](https://github.com/AlaskaDHSS/RFP-ARIES-Support/blob/main/Attachment%2010%20IT%20Reference%20D%20-%20DHSS%20Information%20Technology%20Standards.pdf)
+
+Technical Understanding and Approach is included
+in the page limit.
 
 ## Sec. 4.04 Project Management Approach
 
-Offerors should plan to discuss, in their written proposal and/or during
-verbal presentations, the following areas of project management:
+Succinctly describe your approach to the following areas of project management:
 
 -   Project Coordination -- Describe how you will manage the necessary
     coordination of the different stakeholder groups both within the
@@ -1434,16 +1436,18 @@ verbal presentations, the following areas of project management:
     work with the state technical support teams to integrate into the
     shared CI/CD pipeline. Describe how you envision incorporating user
     testing.
+	
+-   User Research Coordination -- Describe an overview of your research process and how that will tie in with other delivery activities.
 
 Project Management Approach is included in the page limit.
 
 ## Sec. 4.05 Approach to User Interface and User Experience Design
 
-Proposals must contain information that describes how you will perform
+Succinctly describe how you will perform
 user experience and user interface design as a part of the overall user
-research. The proposal should also contain information about how this
+research. Also include information about how this
 research will be translated into relevant user stories and ultimately
-into working software. We expect that for any user facing system
+into working software. DHSS, DPA expects that for any user facing system
 changes, there will need to be some amount of user research and design.
 
 Approach to User Interface and User Experience Design is included in the
@@ -1451,14 +1455,14 @@ page limit.
 
 ## Sec. 4.06 Staffing Approach
 
-Offerors should provide a staffing approach that describes your
+Provide a staffing approach that describes your
 understanding of the responsibilities and details the number or
 personnel by skill level/labor category needed to satisfy Section 3.01:
 Scope of Work as well as Section 3.04 Personnel.
 
 At a minimum, in this section, provide:
 
--   Description of your staffing methodology based on your understanding
+-   A description of your staffing methodology based on your understanding
     of the responsibilities;
 
 -   A breakdown of labor categories, including the title, number of
@@ -1479,10 +1483,10 @@ The staffing approach is included as part of your page limitation;
 however, resumes and letters of intent are not included in the page
 limitation.
 
-## Sec. 4.07 Similar Experience and Qualifications
+## Sec. 4.07 Experience and Qualifications
 
-The offeror must describe how they fully meet the minimum qualifications
-and personnel criteria identified in Sections 1.04 and 3.04.
+The offeror must describe how they fully meet the minimum qualifications in section 1.04
+and personnel criteria identified in section 3.04.
 
 Offerors must also provide a narrative description of the organization
 of the project team and a personnel roster that identifies lines of
@@ -1494,11 +1498,13 @@ contract, please provide the following:
 
 -   Resume and specifically related work experience.
 
+Offerors must provide information describing work completed of a similar scope and complexity. Please provide experiences with similar technology software development, human-centered design, and continuous deployment methods.  
+
 Information about similar experience and qualifications is included as part of your page limitation.
 
 ## Sec. 4.08 Verbal Presentation
 
-Responsive offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of a short demo and unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
+Responsive offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of a short demo and a question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
 
 ##### Table 2 Verbal Presentation
 **Agenda Item** | **Maximum Time** 
@@ -1509,8 +1515,8 @@ Question and Answer Session | 30 minutes
 Closing Remarks | 5 minutes
 
 
-During the open technical session, the Offeror will respond to the
-State's questions related to the technical aspects of the Offeror's
+During the open technical session, the offeror will respond to the
+State's questions related to the technical aspects of the offeror's
 proposal. We strongly prefer a demonstration of a similar application
 built on like technology. This application can be a working prototype if
 a production application is not available for demo. This could include a
@@ -1523,10 +1529,10 @@ interested in a demo or overview of an eligibility system that does not
 share similar technology and does not demonstrate the team's ability to
 modify and maintain the State of Alaska Eligibility System. At this time
 the State of Alaska is not interested in a full system replacement and
-does not intend to award this RFP to do so.
+does not intend to issue an RFP to do so.
 
 Introductions will be used solely for introducing team member's names
-and roles on both the State and vendor teams. Time for introductions
+and roles on both the State and offeror teams. Time for introductions
 will not be allocated to business development purposes.
 
 Although the technical factors are identified in the RFP, the core
@@ -1545,9 +1551,9 @@ after this part of the presentation.
 **Presentation date and time**
 
 The State will schedule the date and time of the verbal presentations
-with each Offeror after the solicitation closing date and receiving each
-Offeror's quote submission. The State reserves the right to reschedule
-any Offeror's verbal presentations date at the discretion of the
+with each offeror after the solicitation closing date and receiving each
+offeror's quote submission. The State reserves the right to reschedule
+any offeror's verbal presentations date at the discretion of the
 procurement officer.
 
 **Presentation location**
@@ -1560,7 +1566,7 @@ such as WebEx, Zoom or MS Teams).
 **Presentation participants**
 
 Proposed Key Personnel must participate in the verbal presentation.
-Otherwise, the Offeror will be considered non-responsive and excluded
+Otherwise, the offeror will be considered non-responsive and excluded
 from further consideration.
 
 Offerors may include as many participants as are necessary. Offerors
@@ -1568,17 +1574,17 @@ should note that the State will be asking technical questions during the
 verbal presentation. Participants will also be asked questions related
 to project management (section 4.04).
 
-All proposed Key Personnel currently employed by the Offeror or its
+All proposed Key Personnel currently employed by the offeror or its
 teaming partners must attend the session - the State is most interested
 in hearing from staff who will have a direct role in completing the
 tasks.
 
-After the presentations, vendors must email the meeting organizers the
+After the presentations, offerors must email the meeting organizers the
 names of everyone who attended.
 
 ## Sec. 4.09 Cost Proposal
 
-Offerors must complete the Cost Proposal template provided in Section 8:
+Offerors must complete the cost proposal template provided in Section 8:
 Attachments. Cost proposals must include an itemized list of all direct
 and indirect costs associated with the performance of the contract,
 including, but not limited to, total number of hours at various hourly
@@ -1636,7 +1642,7 @@ The State will evaluate the offeror's proposed staffing methodology and
 skill levels/labor categories as well as the availability and relevant
 work experience demonstrated by Key Personnel.
 
-## Sec. 5.05 Similar Experience and Qualifications (10%)
+## Sec. 5.05 Experience and Qualifications (10%)
 
 The State will evaluate the offeror's experience in performing work of
 similar scope and complexity. The State will also evaluate the offeror's
