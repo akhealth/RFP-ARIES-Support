@@ -80,28 +80,26 @@ Kellie.Julian@alaska.gov<br>
 
 [Sec. 3.08 Proposed Payment Procedures](#sec-308-proposed-payment-procedures)
 
-[Sec. 3.09 Prompt Payment For State Purchases](#sec-309-prompt-payment-for-state-purchases)
+[Sec. 3.09 Contract Payment](#sec-309-contract-payment)
 
-[Sec. 3.10 Contract Payment](#sec-310-contract-payment)
+[Sec. 3.10 Location of Work](#sec-310-location-of-work)
 
-[Sec. 3.11 Location of Work](#sec-311-location-of-work)
+[Sec. 3.11 Subcontractors](#sec-311-subcontractors)
 
-[Sec. 3.12 Subcontractors](#sec-312-subcontractors)
+[Sec. 3.12 Joint Ventures](#sec-312-joint-ventures)
 
-[Sec. 3.13 Joint Ventures](#sec-313-joint-ventures)
+[Sec. 3.13 Right to Inspect Place of Business](#sec-313-right-to-inspect-place-of-business)
 
-[Sec. 3.14 Right to Inspect Place of Business](#sec-314-right-to-inspect-place-of-business)
+[Sec. 3.14 Contract Personnel](#sec-314-contract-personnel)
 
-[Sec. 3.15 Contract Personnel](#sec-315-contract-personnel)
+[Sec. 3.15 Inspection & Modification - Reimbursement For Unacceptable
+Deliverables](#sec-315-inspection--modification---reimbursement-for-unacceptable-deliverables)
 
-[Sec. 3.16 Inspection & Modification - Reimbursement For Unacceptable
-Deliverables](#sec-316-inspection--modification---reimbursement-for-unacceptable-deliverables)
+[Sec. 3.16 Contract Changes - Unanticipated Amendments](#sec-316-contract-changes---unanticipated-amendments)
 
-[Sec. 3.17 Contract Changes - Unanticipated Amendments](#sec-317-contract-changes---unanticipated-amendments)
+[Sec. 3.17 Nondisclosure and Confidentiality](#sec-317-nondisclosure-and-confidentiality)
 
-[Sec. 3.18 Nondisclosure and Confidentiality](#sec-318-nondisclosure-and-confidentiality)
-
-[Sec. 3.19 Termination For Default](#sec-319-termination-for-default)
+[Sec. 3.18 Termination For Default](#sec-318-termination-for-default)
 
 ### Section 4.	PROPOSAL FORMAT AND CONTENT
 
@@ -1092,16 +1090,8 @@ Each billing must consist of an invoice and progress report. No payment
 will be made until the progress report and invoice has been approved by
 the project director.
 
-## Sec. 3.09 Prompt Payment For State Purchases
 
-The state is eligible to receive a **5%** discount for all invoices paid
-within **15** business days from the date of receipt of the commodities
-or services and/or a correct invoice, whichever is later. The discount
-shall be taken on the full invoice amount. The state shall consider
-payment being made as either the date a printed warrant is issued or the
-date an electronic funds transfer (EFT) is initiated.
-
-## Sec. 3.10 Contract Payment
+## Sec. 3.09 Contract Payment
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health and Social Services or the
@@ -1114,7 +1104,7 @@ stated in U.S. currency.
 Any single contract payment of \$1 million or higher must be accepted by
 the contractor via Electronic Funds Transfer (EFT).
 
-## Sec. 3.11 Location of Work
+## Sec. 3.10 Location of Work
 
 The location(s) the work is to be performed, completed, and managed is
 at the discretion of the contractor as long as the location complies
@@ -1181,7 +1171,7 @@ the reason the waiver is necessary.
 Failure to comply with these requirements may cause the state to reject
 the proposal as non-responsive or cancel the contract.
 
-## Sec. 3.12 Subcontractors
+## Sec. 3.11 Subcontractors
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must identify in the
@@ -1218,25 +1208,25 @@ at the discretion and prior written approval of the project director.
 Note that if the subcontractor will not be performing work within
 Alaska, they will not be required to hold an Alaska business license.
 
-## Sec. 3.13 Joint Ventures
+## Sec. 3.12 Joint Ventures
 
 Joint ventures will not be allowed.
 
-## Sec. 3.14 Right to Inspect Place of Business
+## Sec. 3.13 Right to Inspect Place of Business
 
 At reasonable times, the state may inspect those areas of the
 contractor\'s place of business that are related to the performance of a
 contract. If the state makes such an inspection, the contractor must
 provide reasonable assistance.
 
-## Sec. 3.15 Contract Personnel
+## Sec. 3.14 Contract Personnel
 
 Any change of the key personnel or subcontractors named in the proposal
 must be approved, in advance and in writing, by the project director.
 Personnel changes that are not approved by the state may be grounds for
 the state to terminate the contract.
 
-## Sec. 3.16 Inspection & Modification - Reimbursement For Unacceptable Deliverables
+## Sec. 3.15 Inspection & Modification - Reimbursement For Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in
 the contract. All work is subject to inspection, evaluation, and
@@ -1252,7 +1242,7 @@ the state to terminate the contract. In this event, the state may
 require the contractor to reimburse monies paid (based on the identified
 portion of unacceptable work received) and may seek associated damages.
 
-## Sec. 3.17 Contract Changes - Unanticipated Amendments
+## Sec. 3.16 Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -1269,7 +1259,7 @@ amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health and Social Services or the
 Commissioner\'s designee.
 
-## Sec. 3.18 Nondisclosure and Confidentiality
+## Sec. 3.17 Nondisclosure and Confidentiality
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -1325,7 +1315,7 @@ which is disclosed by a party pursuant to subpoena or other legal
 process and which as a result becomes lawfully obtainable by the general
 public.
 
-## Sec. 3.19 Termination For Default
+## Sec. 3.18 Termination For Default
 
 The Project Director, by written notice, may terminate this contract, in
 whole or in part, when it is in the best interest of the State. In the
