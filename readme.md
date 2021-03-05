@@ -4,7 +4,7 @@
 
 The documents in this repository are posted in Alaska's Vendor Self Service (VSS) portal under RFP # 210000029. The documents in VSS should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by March 1, 2021 at 4:00 pm Alaska prevailing time.
 
-Offers are due by March 12, 2021, at 4:00 pm Alaska prevailing time.
+Offers are due by March 26, 2021, at 4:00 pm Alaska prevailing time.
 
 ## Important note about referenced documentation
 
