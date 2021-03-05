@@ -265,8 +265,8 @@ non-responsive.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than 4:00 pm prevailing Alaska Time
-on 3/12/2021.
+Proposals must be received no later than 4:00 pm Alaska Prevailing Time
+on 3/26/2021.
 
 Late proposals or amendments will be disqualified and not opened or
 accepted for evaluation.
@@ -493,14 +493,14 @@ Amendments will also be posted on this procurements GitHub repository.
 The RFP schedule set out herein represents the State of Alaska's best
 estimate of the schedule that will be followed. If a component of this
 schedule, such as the deadline for receipt of proposals, is delayed, the
-rest of the schedule may be shifted by the same number of days. All
-times are Alaska Standard Time (AKST).
+rest of the schedule may be shifted by the same number of days. **All
+times are Alaska Prevailing Time.**
 
 -   Issue RFP on 2/19/2021
 
--   Deadline for receipt of questions on 3/1/2021 by 4pm AKST
+-   Deadline for receipt of questions on 3/1/2021 by 4pm 
 
--   Deadline for receipt of proposals on 3/12/2021 by 4pm AKST
+-   Deadline for receipt of proposals on 3/26/2021 by 4pm 
 
 -   Proposal Evaluation Committee complete evaluation by 4/2/2021
 
@@ -558,7 +558,12 @@ In addition to these users there are multiple community partners that
 access the system to assist in the public assistance program
 administration.
 
-The MAGI Medicaid eligibility system is based on an IBM WebSphere software platform utilizing Microsoft Servers currently hosted on the State of Alaska virtual infrastructure. This virtual infrastructure is maintained by the Office of Information Technology under the Department of Administration. DHSS is currently responsible for the applications that run on this infrastructure. 
+The MAGI Medicaid eligibility system is based on an IBM WebSphere software platform utilizing Microsoft Servers currently hosted on the State of Alaska virtual infrastructure. This virtual infrastructure is maintained by the Office of Information Technology under the Department of Administration. DHSS is currently responsible for the applications that run on this infrastructure. This environment currently contains:
+
+**Server Count**  
+Development -> 25 servers (24 servers-Windows 2008 R2/1 server-Windows 2016)
+Non-Prod -> 22 servers (20 servers-Windows 2008 R2/2 servers-Windows 2016)
+Production/DR -> 23 servers (21 severs-Windows 2008 R2/2 servers- Windows 2016)
 
 The current Azure infrastructure, in limited use, is managed by DHSS. 
 
@@ -597,17 +602,17 @@ will serve to achieve the following goals:
 
         -   Resolution of found security issues/vulnerabilities
 
-            -   Critical -- 3 days
+            -   Critical -- 3 calendar days
             > Critical means that a threat event could be expected to have multiple severe or catastrophic adverse effects on organizational operations, organizational assets,                > individuals, other organizations, or the Nation.
 
-            -   High -- 7 days
+            -   High -- 7 calendar days
             > High risk means that a threat event could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets,                       > individuals, other organizations, or the Nation.
 
-            -   Moderate -- 15 days
+            -   Moderate -- 15 calendar days
             
              > Moderate risk means that a threat event could be expected to have a serious adverse effect on organizational operations, organizational assets, individuals,                    > other organizations, or the Nation.
 
-            -   Low -- 30 days
+            -   Low -- 30 calendar days
             > Low risk means that a threat event could be expected to have a limited adverse effect on organizational operations, organizational assets, individuals, other                   > organizations, or the Nation.
 
 
